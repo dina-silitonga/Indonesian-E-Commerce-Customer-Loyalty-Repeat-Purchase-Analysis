@@ -1,4 +1,3 @@
-
 -- ==========================================
 -- PROJECT: Indonesian E-Commerce Customer Analysis
 -- PURPOSE: Customer Behavior & Activity Analysis
