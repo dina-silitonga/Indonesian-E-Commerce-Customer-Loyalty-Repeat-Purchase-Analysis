@@ -1,0 +1,1001 @@
+No,Trx_Date,Cust_ID,Age,Gender,AREA,Product_ID,Product_Name,Category,Amount
+1,6/1/2022,CTR0200437,49,Laki-laki,Aceh,HP-PV15,Laptop HP Pavilion 15,Computer,1
+2,6/1/2022,CTR0200460,18,Perempuan,Bandung,192021232,Hair Mask CDE,Hair Treatment,1
+3,6/1/2022,CTR0200553,42,Perempuan,Banjarmasin,192021232,Hair Mask CDE,Hair Treatment,7
+4,6/1/2022,CTR0200581,42,Laki-laki,Batam,IKE-KALLAX,Rak Buku IKEA Kallax,Home Appliances,5
+5,6/1/2022,CTR0200563,39,Perempuan,Cirebon,232425275,Perfume OPQ,Cosmetics,1
+6,6/1/2022,CTR0200461,26,Laki-laki,Jakarta,TUP-SET10,Set Peralatan Dapur Tupperware,Kitchen Appliances,1
+7,6/1/2022,CTR0200561,40,Perempuan,Kediri,181920212,Blush ZAB,Cosmetics,1
+8,6/1/2022,CTR0200479,54,Perempuan,Malang,161718191,Makeup Remover TUV,Cosmetics,3
+9,6/1/2022,CTR0200500,24,Laki-laki,Manado,SAM-Q60T,Televisi Samsung Q60,Electronics and Gadget,1
+10,6/1/2022,CTR0200535,47,Laki-laki,Mataram,XIA-MIRV,Vacuum Cleaner Xiaomi Mi Robot,Electronics and Gadget,1
+11,6/1/2022,CTR0200514,18,Perempuan,Medan,232425275,Perfume OPQ,Cosmetics,1
+12,6/1/2022,CTR0200571,35,Perempuan,Padang,101112131,Body Scrub EFG,Body Treatment,2
+13,6/1/2022,CTR0200438,21,Laki-laki,Semarang,MK-BRAD,Jam Tangan Michael Kors Bradshaw,Convinience Goods,1
+14,6/1/2022,CTR0200415,40,Perempuan,Pekanbaru,242526286,Whitening Cream RST,Cosmetics,1
+15,6/1/2022,CTR0200467,51,Perempuan,Tangerang,990011223,Eye Cream BCD,Cosmetics,2
+16,6/1/2022,CTR0200555,36,Perempuan,Yogyakarta,334455667,Body Lotion JKL,Body Treatment,3
+17,6/1/2022,CTR0200412,38,Perempuan,Purwokerto,445566778,Hair Serum MNO,Hair Treatment,1
+18,6/2/2022,CTR0200437,49,Laki-laki,Aceh,REL-8PRO,Smartphone Realme 8 Pro,Electronics and Gadget,1
+19,6/2/2022,CTR0200460,18,Perempuan,Bandung,161718191,Makeup Remover TUV,Cosmetics,1
+20,6/2/2022,CTR0200553,42,Perempuan,Banjarmasin,445566778,Hair Serum MNO,Hair Treatment,5
+21,6/2/2022,CTR0200582,27,Perempuan,Batam,202122242,Deodorant FGH,Cosmetics,1
+22,6/2/2022,CTR0200565,40,Perempuan,Cirebon,778899001,Shampoo VWX,Hair Treatment,3
+23,6/2/2022,CTR0200461,26,Laki-laki,Jakarta,POL-X5,Sepeda Polygon Xtrada 5,Sport,2
+24,6/2/2022,CTR0200561,40,Perempuan,Kediri,222324264,Acne Gel LMN,Cosmetics,6
+25,6/2/2022,CTR0200510,44,Laki-laki,Malang,ANK-PB10000,Power Bank Anker PowerCore 10000,Electronics and Gadget,1
+26,6/2/2022,CTR0200500,24,Laki-laki,Manado,APP-IP13,Smartphone Apple iPhone 13,Electronics and Gadget,2
+27,6/2/2022,CTR0200543,48,Perempuan,Mataram,181920212,Blush ZAB,Cosmetics,1
+28,6/2/2022,CTR0200514,18,Perempuan,Medan,202122242,Deodorant FGH,Cosmetics,1
+29,6/2/2022,CTR0200571,35,Perempuan,Padang,141516171,Foot Cream NOP,Body Treatment,1
+30,6/2/2022,CTR0200438,21,Laki-laki,Semarang,PHI-PRO,Vacuum Cleaner Philips PowerPro,Electronics and Gadget,1
+31,6/2/2022,CTR0200415,40,Perempuan,Pekanbaru,181920212,Blush ZAB,Cosmetics,3
+32,6/2/2022,CTR0200467,51,Perempuan,Tangerang,202122242,Deodorant FGH,Cosmetics,1
+33,6/2/2022,CTR0200555,36,Perempuan,Yogyakarta,222324264,Acne Gel LMN,Cosmetics,1
+34,6/2/2022,CTR0200412,38,Perempuan,Purwokerto,202122242,Deodorant FGH,Cosmetics,1
+35,6/3/2022,CTR0200437,49,Laki-laki,Aceh,VIV-V21,Smartphone Vivo V21,Electronics and Gadget,2
+36,6/3/2022,CTR0200460,18,Perempuan,Bandung,161718191,Makeup Remover TUV,Cosmetics,1
+37,6/3/2022,CTR0200553,42,Perempuan,Banjarmasin,112233445,Lip Balm DEF,Cosmetics,5
+38,6/3/2022,CTR0200582,27,Perempuan,Batam,202122242,Deodorant FGH,Cosmetics,1
+39,6/3/2022,CTR0200565,40,Perempuan,Cirebon,889900112,Conditioner YZA,Hair Treatment,2
+40,6/3/2022,CTR0200482,40,Perempuan,Jakarta,242526286,Whitening Cream RST,Cosmetics,1
+41,6/3/2022,CTR0200561,40,Perempuan,Kediri,778899001,Shampoo VWX,Hair Treatment,1
+42,6/3/2022,CTR0200510,44,Laki-laki,Malang,CAN-G3020,Printer Canon PIXMA G3020,Computer,1
+43,6/3/2022,CTR0200500,24,Laki-laki,Manado,ADI-UB21,Sepatu Adidas Ultraboost 21,Fashion,1
+44,6/3/2022,CTR0200543,48,Perempuan,Mataram,222324264,Acne Gel LMN,Cosmetics,1
+45,6/3/2022,CTR0200514,18,Perempuan,Medan,202122242,Deodorant FGH,Cosmetics,1
+46,6/3/2022,CTR0200465,44,Laki-laki,Surabaya,APP-IP13,Smartphone Apple iPhone 13,Electronics and Gadget,2
+47,6/3/2022,CTR0200438,21,Laki-laki,Semarang,PHI-PRO,Vacuum Cleaner Philips PowerPro,Electronics and Gadget,1
+48,6/3/2022,CTR0200415,40,Perempuan,Pekanbaru,141516171,Foot Cream NOP,Body Treatment,2
+49,6/3/2022,CTR0200470,21,Perempuan,Tangerang,121314151,Hand Cream HIJ,Body Treatment,1
+50,6/3/2022,CTR0200555,36,Perempuan,Yogyakarta,242526286,Whitening Cream RST,Cosmetics,1
+51,6/3/2022,CTR0200412,38,Perempuan,Purwokerto,990011223,Eye Cream BCD,Cosmetics,1
+52,6/4/2022,CTR0200437,49,Laki-laki,Aceh,DEL-EC685,Mesin Kopi Delonghi EC685,Electronics and Gadget,1
+53,6/4/2022,CTR0200460,18,Perempuan,Bandung,101112131,Body Scrub EFG,Body Treatment,1
+54,6/4/2022,CTR0200553,42,Perempuan,Banjarmasin,222324264,Acne Gel LMN,Cosmetics,1
+55,6/4/2022,CTR0200586,26,Laki-laki,Batam,FOS-GEN5,Jam Tangan Fossil Gen 5,Convinience Goods,1
+56,6/4/2022,CTR0200565,40,Perempuan,Cirebon,222324264,Acne Gel LMN,Cosmetics,1
+57,6/4/2022,CTR0200482,40,Perempuan,Jakarta,141516171,Foot Cream NOP,Body Treatment,2
+58,6/4/2022,CTR0200561,40,Perempuan,Kediri,141516171,Foot Cream NOP,Body Treatment,2
+59,6/4/2022,CTR0200510,44,Laki-laki,Malang,DJI-OM4,Gimbal DJI Osmo Mobile 4,Electronics and Gadget,1
+60,6/4/2022,CTR0200500,24,Laki-laki,Manado,IKE-KALLAX,Rak Buku IKEA Kallax,Home Appliances,1
+61,6/4/2022,CTR0200543,48,Perempuan,Mataram,123456789,Facial Cleanser XYZ,Cosmetics,1
+62,6/4/2022,CTR0200532,49,Perempuan,Medan,889900112,Conditioner YZA,Hair Treatment,25
+63,6/4/2022,CTR0200465,44,Laki-laki,Surabaya,PHI-HR2116,Blender Philips HR2116,Electronics and Gadget,1
+64,6/4/2022,CTR0200438,21,Laki-laki,Semarang,ERG-MK100,Meja Kerja Ergotron,Home Appliances,1
+65,6/4/2022,CTR0200415,40,Perempuan,Pekanbaru,445566778,Hair Serum MNO,Hair Treatment,1
+66,6/4/2022,CTR0200470,21,Perempuan,Tangerang,121314151,Hand Cream HIJ,Body Treatment,1
+67,6/4/2022,CTR0200555,36,Perempuan,Yogyakarta,131415161,Face Oil KLM,Cosmetics,2
+68,6/4/2022,CTR0200412,38,Perempuan,Purwokerto,131415161,Face Oil KLM,Cosmetics,1
+69,6/5/2022,CTR0200437,49,Laki-laki,Aceh,XIA-MIRV,Vacuum Cleaner Xiaomi Mi Robot,Electronics and Gadget,1
+70,6/5/2022,CTR0200509,28,Laki-laki,Bandung,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,1
+71,6/5/2022,CTR0200553,42,Perempuan,Banjarmasin,131415161,Face Oil KLM,Cosmetics,6
+72,6/5/2022,CTR0200586,26,Laki-laki,Batam,TEF-EX24,Panci Tefal Expertise,Kitchen Appliances,1
+73,6/5/2022,CTR0200565,40,Perempuan,Cirebon,112233445,Lip Balm DEF,Cosmetics,1
+74,6/5/2022,CTR0200482,40,Perempuan,Jakarta,141516171,Foot Cream NOP,Body Treatment,1
+75,6/5/2022,CTR0200561,40,Perempuan,Kediri,141516171,Foot Cream NOP,Body Treatment,1
+76,6/5/2022,CTR0200510,44,Laki-laki,Malang,INT-AIR,Kasur Intex Airbed,Home Appliances,1
+77,6/5/2022,CTR0200500,24,Laki-laki,Manado,DYS-PCOOL,Kipas Angin Dyson Pure Cool,Electronics and Gadget,1
+78,6/5/2022,CTR0200545,52,Perempuan,Mataram,202122242,Deodorant FGH,Cosmetics,1
+79,6/5/2022,CTR0200532,49,Perempuan,Medan,141516171,Foot Cream NOP,Body Treatment,10
+80,6/5/2022,CTR0200465,44,Laki-laki,Surabaya,INT-AIR,Kasur Intex Airbed,Home Appliances,1
+81,6/5/2022,CTR0200438,21,Laki-laki,Semarang,CAN-EOS-M50,Kamera Canon EOS M50,Electronics and Gadget,1
+82,6/5/2022,CTR0200415,40,Perempuan,Pekanbaru,121314151,Hand Cream HIJ,Body Treatment,1
+83,6/5/2022,CTR0200470,21,Perempuan,Tangerang,181920212,Blush ZAB,Cosmetics,1
+84,6/5/2022,CTR0200585,25,Perempuan,Yogyakarta,987654321,Moisturizer ABC,Cosmetics,1
+85,6/5/2022,CTR0200481,50,Laki-laki,Purwokerto, SAM-ROD24,Koper Roda Samsonite,Equipments,1
+86,6/6/2022,CTR0200437,49,Laki-laki,Aceh,ANK-PW10,Wireless Charger Anker PowerWave,Electronics and Gadget,1
+87,6/6/2022,CTR0200509,28,Laki-laki,Bandung,DJI-OM4,Gimbal DJI Osmo Mobile 4,Electronics and Gadget,1
+88,6/6/2022,CTR0200553,42,Perempuan,Banjarmasin,232425275,Perfume OPQ,Cosmetics,1
+89,6/6/2022,CTR0200587,27,Perempuan,Batam,123456789,Facial Cleanser XYZ,Cosmetics,2
+90,6/6/2022,CTR0200579,43,Perempuan,Cirebon,161718191,Makeup Remover TUV,Cosmetics,1
+91,6/6/2022,CTR0200444,38,Perempuan,Jambi,242526286,Whitening Cream RST,Cosmetics,2
+92,6/6/2022,CTR0200561,40,Perempuan,Kediri,889900112,Conditioner YZA,Hair Treatment,1
+93,6/6/2022,CTR0200510,44,Laki-laki,Malang,GAR-FR245,Jam Tangan Garmin Forerunner 245,Convinience Goods,2
+94,6/6/2022,CTR0200500,24,Laki-laki,Manado,SAM-Q60T,Televisi Samsung Q60,Electronics and Gadget,1
+95,6/6/2022,CTR0200545,52,Perempuan,Mataram,212223253,Nail Polish IJK,Cosmetics,2
+96,6/6/2022,CTR0200532,49,Perempuan,Medan,987654321,Moisturizer ABC,Cosmetics,2
+97,6/6/2022,CTR0200465,44,Laki-laki,Surabaya,IKE-TRONES,Rak Sepatu IKEA TRONES,Home Appliances,1
+98,6/6/2022,CTR0200438,21,Laki-laki,Semarang,SON-A7III,Kamera Sony Alpha A7 III,Electronics and Gadget,1
+99,6/6/2022,CTR0200415,40,Perempuan,Pekanbaru,987654321,Moisturizer ABC,Cosmetics,1
+100,6/6/2022,CTR0200470,21,Perempuan,Tangerang,202122242,Deodorant FGH,Cosmetics,1
+101,6/6/2022,CTR0200585,25,Perempuan,Yogyakarta,987654321,Moisturizer ABC,Cosmetics,1
+102,6/6/2022,CTR0200481,50,Laki-laki,Purwokerto,LG-DIND,Kulkas LG Door-in-Door,Electronics and Gadget,2
+103,6/7/2022,CTR0200437,49,Laki-laki,Aceh,IKE-365,Set Alat Makan IKEA 365+,Kitchen Appliances,1
+104,6/7/2022,CTR0200509,28,Laki-laki,Bandung,SON-WH1000,Headphone Sony WH-1000XM4,Electronics and Gadget,1
+105,6/7/2022,CTR0200554,38,Perempuan,Banjarmasin,131415161,Face Oil KLM,Cosmetics,4
+106,6/7/2022,CTR0200587,27,Perempuan,Batam,141516171,Foot Cream NOP,Body Treatment,1
+107,6/7/2022,CTR0200579,43,Perempuan,Cirebon,987654321,Moisturizer ABC,Cosmetics,2
+108,6/7/2022,CTR0200444,38,Perempuan,Jambi,112233445,Lip Balm DEF,Cosmetics,1
+109,6/7/2022,CTR0200573,43,Laki-laki,Kediri,SHA-SJ185,Kulkas Sharp 2 Pintu SJ-X185,Electronics and Gadget,1
+110,6/7/2022,CTR0200510,44,Laki-laki,Malang,VIV-V21,Smartphone Vivo V21,Electronics and Gadget,4
+111,6/7/2022,CTR0200500,24,Laki-laki,Manado,LOG-G502,Papan Mouse Logitech G502,Computer,2
+112,6/7/2022,CTR0200545,52,Perempuan,Mataram,987654321,Moisturizer ABC,Cosmetics,1
+113,6/7/2022,CTR0200532,49,Perempuan,Medan,556677889,Face Mask PQR,Cosmetics,1
+114,6/7/2022,CTR0200465,44,Laki-laki,Surabaya,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,1
+115,6/7/2022,CTR0200442,27,Laki-laki,Semarang,PHI-HR2116,Blender Philips HR2116,Electronics and Gadget,1
+116,6/7/2022,CTR0200429,44,Perempuan,Pekanbaru,101112131,Body Scrub EFG,Body Treatment,1
+117,6/7/2022,CTR0200470,21,Perempuan,Tangerang,192021232,Hair Mask CDE,Hair Treatment,3
+118,6/7/2022,CTR0200585,25,Perempuan,Yogyakarta,242526286,Whitening Cream RST,Cosmetics,1
+119,6/7/2022,CTR0200481,50,Laki-laki,Purwokerto,ADI-GYM,Tas Gym Adidas,Sport,1
+120,6/8/2022,CTR0200437,49,Laki-laki,Aceh,PHI-PRO,Vacuum Cleaner Philips PowerPro,Electronics and Gadget,1
+121,6/8/2022,CTR0200509,28,Laki-laki,Bandung,SON-A7III,Kamera Sony Alpha A7 III,Electronics and Gadget,1
+122,6/8/2022,CTR0200554,38,Perempuan,Banjarmasin,778899001,Shampoo VWX,Hair Treatment,1
+123,6/8/2022,CTR0200588,28,Laki-laki,Batam,FOS-SEL,Tas Selempang Fossil,Equipments,1
+124,6/8/2022,CTR0200579,43,Perempuan,Cirebon,151617181,Face Serum QRS,Cosmetics,1
+125,6/8/2022,CTR0200521,54,Laki-laki,Jambi,EIG-TR30,Tas Ransel Eiger Track 30L,Equipments,1
+126,6/8/2022,CTR0200573,43,Laki-laki,Kediri,JBL-FLIP5,Speaker JBL Flip 5,Electronics and Gadget,1
+127,6/8/2022,CTR0200510,44,Laki-laki,Malang,EIG-D2,Tenda Camping Eiger Dome 2,Equipments,3
+128,6/8/2022,CTR0200500,24,Laki-laki,Manado,FOS-GEN5,Jam Tangan Fossil Gen 5,Convinience Goods,1
+129,6/8/2022,CTR0200545,52,Perempuan,Mataram,171819202,Lipstick WXY,Cosmetics,1
+130,6/8/2022,CTR0200532,49,Perempuan,Medan,445566778,Hair Serum MNO,Hair Treatment,1
+131,6/8/2022,CTR0200465,44,Laki-laki,Surabaya,GO-PRO9,Kamera GoPro HERO9 Black,Electronics and Gadget,1
+132,6/8/2022,CTR0200442,27,Laki-laki,Semarang,LEN-Y7I,Laptop Lenovo Yoga 7i,Computer,1
+133,6/8/2022,CTR0200429,44,Perempuan,Pekanbaru,161718191,Makeup Remover TUV,Cosmetics,1
+134,6/8/2022,CTR0200470,21,Perempuan,Tangerang,101112131,Body Scrub EFG,Body Treatment,1
+135,6/8/2022,CTR0200585,25,Perempuan,Yogyakarta,161718191,Makeup Remover TUV,Cosmetics,1
+136,6/8/2022,CTR0200481,50,Laki-laki,Purwokerto,DEL-XPS13,Laptop Dell XPS 13,Computer,1
+137,6/9/2022,CTR0200437,49,Laki-laki,Aceh,GAR-FR245,Jam Tangan Garmin Forerunner 245,Convinience Goods,1
+138,6/9/2022,CTR0200509,28,Laki-laki,Bandung,SHA-A8,Mesin Cuci Sharp Aqua,Electronics and Gadget,1
+139,6/9/2022,CTR0200554,38,Perempuan,Banjarmasin,334455667,Body Lotion JKL,Body Treatment,3
+140,6/9/2022,CTR0200588,28,Laki-laki,Batam,KIT-ARTIS,Mixer Kitchenaid Artisan,Electronics and Gadget,1
+141,6/9/2022,CTR0200443,50,Perempuan,Denpasar,121314151,Hand Cream HIJ,Body Treatment,2
+142,6/9/2022,CTR0200521,54,Laki-laki,Jambi,RAL-POL,Kemeja Polo Ralph Lauren,Fashion,1
+143,6/9/2022,CTR0200573,43,Laki-laki,Kediri,GO-PRO9,Kamera GoPro HERO9 Black,Electronics and Gadget,1
+144,6/9/2022,CTR0200510,44,Laki-laki,Malang,POL-X5,Sepeda Polygon Xtrada 5,Sport,2
+145,6/9/2022,CTR0200500,24,Laki-laki,Manado,ADI-UB21,Sepatu Adidas Ultraboost 21,Fashion,1
+146,6/9/2022,CTR0200545,52,Perempuan,Mataram,334455667,Body Lotion JKL,Body Treatment,3
+147,6/9/2022,CTR0200532,49,Perempuan,Medan,242526286,Whitening Cream RST,Cosmetics,1
+148,6/9/2022,CTR0200465,44,Laki-laki,Surabaya,EIG-TR30,Tas Ransel Eiger Track 30L,Equipments,1
+149,6/9/2022,CTR0200442,27,Laki-laki,Semarang, XIA-MIP,Speaker Bluetooth Xiaomi Mi Portable,Electronics and Gadget,1
+150,6/9/2022,CTR0200429,44,Perempuan,Pekanbaru,101112131,Body Scrub EFG,Body Treatment,1
+151,6/9/2022,CTR0200470,21,Perempuan,Tangerang,222324264,Acne Gel LMN,Cosmetics,1
+152,6/9/2022,CTR0200585,25,Perempuan,Yogyakarta,232425275,Perfume OPQ,Cosmetics,1
+153,6/9/2022,CTR0200511,43,Perempuan,Purwokerto,192021232,Hair Mask CDE,Hair Treatment,1
+154,6/10/2022,CTR0200567,36,Perempuan,Aceh,242526286,Whitening Cream RST,Cosmetics,12
+155,6/10/2022,CTR0200509,28,Laki-laki,Bandung,QQ-DIG,Jam Dinding Q&Q,Furniture,1
+156,6/10/2022,CTR0200554,38,Perempuan,Banjarmasin,212223253,Nail Polish IJK,Cosmetics,1
+157,6/10/2022,CTR0200589,29,Laki-laki,Batam,LEN-Y7I,Laptop Lenovo Yoga 7i,Computer,1
+158,6/10/2022,CTR0200443,50,Perempuan,Denpasar,101112131,Body Scrub EFG,Body Treatment,1
+159,6/10/2022,CTR0200521,54,Laki-laki,Jambi,ASUS-VB14,Laptop ASUS VivoBook 14,Computer,1
+160,6/10/2022,CTR0200573,43,Laki-laki,Kediri,PHI-PRO,Vacuum Cleaner Philips PowerPro,Electronics and Gadget,1
+161,6/10/2022,CTR0200534,47,Perempuan,Malang,987654321,Moisturizer ABC,Cosmetics,1
+162,6/10/2022,CTR0200500,24,Laki-laki,Manado,LG-OLED55,TV LG OLED55CX,Electronics and Gadget,1
+163,6/10/2022,CTR0200545,52,Perempuan,Mataram,151617181,Face Serum QRS,Cosmetics,1
+164,6/10/2022,CTR0200532,49,Perempuan,Medan,242526286,Whitening Cream RST,Cosmetics,1
+165,6/10/2022,CTR0200465,44,Laki-laki,Surabaya,IKE-KUNG,Papan Setrika IKEA Kungsfors,Home Appliances,1
+166,6/10/2022,CTR0200442,27,Laki-laki,Semarang, IKE-LER,Meja Makan IKEA LERHAMN,Kitchen Appliances,3
+167,6/10/2022,CTR0200429,44,Perempuan,Pekanbaru,222324264,Acne Gel LMN,Cosmetics,1
+168,6/10/2022,CTR0200470,21,Perempuan,Tangerang,171819202,Lipstick WXY,Cosmetics,1
+169,6/10/2022,CTR0200507,36,Perempuan,Samarinda,334455667,Body Lotion JKL,Body Treatment,3
+170,6/10/2022,CTR0200511,43,Perempuan,Purwokerto,445566778,Hair Serum MNO,Hair Treatment,1
+171,6/11/2022,CTR0200567,36,Perempuan,Aceh,222324264,Acne Gel LMN,Cosmetics,1
+172,6/11/2022,CTR0200509,28,Laki-laki,Bandung,JBL-CHARGE4,Speaker Bluetooth JBL Charge 4,Electronics and Gadget,1
+173,6/11/2022,CTR0200554,38,Perempuan,Banjarmasin,778899001,Shampoo VWX,Hair Treatment,1
+174,6/11/2022,CTR0200589,29,Laki-laki,Batam,TEF-8PC,Set Peralatan Masak Tefal,Kitchen Appliances,2
+175,6/11/2022,CTR0200464,19,Perempuan,Denpasar,987654321,Moisturizer ABC,Cosmetics,2
+176,6/11/2022,CTR0200533,53,Laki-laki,Jambi,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,1
+177,6/11/2022,CTR0200573,43,Laki-laki,Kediri,ERG-MK100,Meja Kerja Ergotron,Home Appliances,1
+178,6/11/2022,CTR0200534,47,Perempuan,Malang,192021232,Hair Mask CDE,Hair Treatment,1
+179,6/11/2022,CTR0200500,24,Laki-laki,Manado,ADI-UB21,Sepatu Adidas Ultraboost 21,Fashion,1
+180,6/11/2022,CTR0200545,52,Perempuan,Mataram,192021232,Hair Mask CDE,Hair Treatment,3
+181,6/11/2022,CTR0200532,49,Perempuan,Medan,171819202,Lipstick WXY,Cosmetics,1
+182,6/11/2022,CTR0200465,44,Laki-laki,Surabaya,YON-AST99,Raket Badminton Yonex Astrox 99,Sport,2
+183,6/11/2022,CTR0200442,27,Laki-laki,Semarang,OP-9,Smartphone OnePlus 9,Electronics and Gadget,1
+184,6/11/2022,CTR0200429,44,Perempuan,Pekanbaru,242526286,Whitening Cream RST,Cosmetics,1
+185,6/11/2022,CTR0200470,21,Perempuan,Tangerang,112233445,Lip Balm DEF,Cosmetics,1
+186,6/11/2022,CTR0200507,36,Perempuan,Samarinda,181920212,Blush ZAB,Cosmetics,1
+187,6/11/2022,CTR0200511,43,Perempuan,Purwokerto,445566778,Hair Serum MNO,Hair Treatment,1
+188,6/12/2022,CTR0200567,36,Perempuan,Aceh,181920212,Blush ZAB,Cosmetics,1
+189,6/12/2022,CTR0200528,45,Perempuan,Bandung,223344556,Sunscreen GHI,Body Treatment,1
+190,6/12/2022,CTR0200554,38,Perempuan,Banjarmasin,171819202,Lipstick WXY,Cosmetics,2
+191,6/12/2022,CTR0200590,30,Laki-laki,Batam,ASUS-VB14,Laptop ASUS VivoBook 14,Computer,2
+192,6/12/2022,CTR0200464,19,Perempuan,Denpasar,192021232,Hair Mask CDE,Hair Treatment,2
+193,6/12/2022,CTR0200533,53,Laki-laki,Jambi,SON-WH1000,Headphone Sony WH-1000XM4,Electronics and Gadget,1
+194,6/12/2022,CTR0200573,43,Laki-laki,Kediri,EIG-TR30,Tas Ransel Eiger Track 30L,Equipments,2
+195,6/12/2022,CTR0200534,47,Perempuan,Malang,223344556,Sunscreen GHI,Body Treatment,1
+196,6/12/2022,CTR0200500,24,Laki-laki,Manado, XIA-MIP,Speaker Bluetooth Xiaomi Mi Portable,Electronics and Gadget,1
+197,6/12/2022,CTR0200545,52,Perempuan,Mataram,556677889,Face Mask PQR,Cosmetics,10
+198,6/12/2022,CTR0200532,49,Perempuan,Medan,123456789,Facial Cleanser XYZ,Cosmetics,1
+199,6/12/2022,CTR0200497,35,Perempuan,Surabaya,778899001,Shampoo VWX,Hair Treatment,1
+200,6/12/2022,CTR0200442,27,Laki-laki,Semarang,IKE-365,Set Alat Makan IKEA 365+,Kitchen Appliances,3
+201,6/12/2022,CTR0200432,22,Perempuan,Pekanbaru,778899001,Shampoo VWX,Hair Treatment,2
+202,6/12/2022,CTR0200470,21,Perempuan,Tangerang,242526286,Whitening Cream RST,Cosmetics,1
+203,6/12/2022,CTR0200507,36,Perempuan,Samarinda,131415161,Face Oil KLM,Cosmetics,1
+204,6/12/2022,CTR0200511,43,Perempuan,Purwokerto,123456789,Facial Cleanser XYZ,Cosmetics,1
+205,6/13/2022,CTR0200567,36,Perempuan,Aceh,334455667,Body Lotion JKL,Body Treatment,2
+206,6/13/2022,CTR0200528,45,Perempuan,Bandung,112233445,Lip Balm DEF,Cosmetics,1
+207,6/13/2022,CTR0200556,40,Perempuan,Banjarmasin,334455667,Body Lotion JKL,Body Treatment,1
+208,6/13/2022,CTR0200417,35,Laki-laki,Bekasi,DJI-OM4,Gimbal DJI Osmo Mobile 4,Electronics and Gadget,3
+209,6/13/2022,CTR0200473,20,Perempuan,Denpasar,242526286,Whitening Cream RST,Cosmetics,1
+210,6/13/2022,CTR0200533,53,Laki-laki,Jambi,TUP-SET10,Set Peralatan Dapur Tupperware,Kitchen Appliances,1
+211,6/13/2022,CTR0200573,43,Laki-laki,Kediri,NIK-D3500,Kamera Nikon D3500,Electronics and Gadget,1
+212,6/13/2022,CTR0200534,47,Perempuan,Malang,181920212,Blush ZAB,Cosmetics,1
+213,6/13/2022,CTR0200500,24,Laki-laki,Manado,LG-OLED55,TV LG OLED55CX,Electronics and Gadget,1
+214,6/13/2022,CTR0200545,52,Perempuan,Mataram,445566778,Hair Serum MNO,Hair Treatment,8
+215,6/13/2022,CTR0200541,49,Perempuan,Medan,987654321,Moisturizer ABC,Cosmetics,1
+216,6/13/2022,CTR0200497,35,Perempuan,Surabaya,556677889,Face Mask PQR,Cosmetics,1
+217,6/13/2022,CTR0200442,27,Laki-laki,Semarang,FOS-SEL,Tas Selempang Fossil,Equipments,1
+218,6/13/2022,CTR0200432,22,Perempuan,Pekanbaru,334455667,Body Lotion JKL,Body Treatment,3
+219,6/13/2022,CTR0200470,21,Perempuan,Tangerang,171819202,Lipstick WXY,Cosmetics,2
+220,6/13/2022,CTR0200507,36,Perempuan,Samarinda,123456789,Facial Cleanser XYZ,Cosmetics,2
+221,6/13/2022,CTR0200511,43,Perempuan,Purwokerto,778899001,Shampoo VWX,Hair Treatment,1
+222,6/14/2022,CTR0200567,36,Perempuan,Aceh,445566778,Hair Serum MNO,Hair Treatment,1
+223,6/14/2022,CTR0200528,45,Perempuan,Bandung,141516171,Foot Cream NOP,Body Treatment,1
+224,6/14/2022,CTR0200556,40,Perempuan,Banjarmasin,121314151,Hand Cream HIJ,Body Treatment,1
+225,6/14/2022,CTR0200417,35,Laki-laki,Bekasi,IKE-365,Set Alat Makan IKEA 365+,Kitchen Appliances,2
+226,6/14/2022,CTR0200473,20,Perempuan,Denpasar,161718191,Makeup Remover TUV,Cosmetics,1
+227,6/14/2022,CTR0200533,53,Laki-laki,Jambi,ANK-PB10000,Power Bank Anker PowerCore 10000,Electronics and Gadget,1
+228,6/14/2022,CTR0200435,47,Perempuan,Lampung,202122242,Deodorant FGH,Cosmetics,3
+229,6/14/2022,CTR0200534,47,Perempuan,Malang,223344556,Sunscreen GHI,Body Treatment,1
+230,6/14/2022,CTR0200500,24,Laki-laki,Manado, IKE-LER,Meja Makan IKEA LERHAMN,Kitchen Appliances,1
+231,6/14/2022,CTR0200545,52,Perempuan,Mataram,334455667,Body Lotion JKL,Body Treatment,5
+232,6/14/2022,CTR0200541,49,Perempuan,Medan,171819202,Lipstick WXY,Cosmetics,1
+233,6/14/2022,CTR0200497,35,Perempuan,Surabaya,123456789,Facial Cleanser XYZ,Cosmetics,1
+234,6/14/2022,CTR0200442,27,Laki-laki,Semarang,BOS-QC35,Headphone Bose QuietComfort 35,Electronics and Gadget,1
+235,6/14/2022,CTR0200432,22,Perempuan,Pekanbaru,121314151,Hand Cream HIJ,Body Treatment,1
+236,6/14/2022,CTR0200470,21,Perempuan,Tangerang,202122242,Deodorant FGH,Cosmetics,3
+237,6/14/2022,CTR0200507,36,Perempuan,Samarinda,667788990,Toner STU,Cosmetics,1
+238,6/14/2022,CTR0200478,23,Laki-laki,Pontianak,CAS-GSHOCK,Jam Tangan Casio G-Shock,Convinience Goods,1
+239,6/15/2022,CTR0200567,36,Perempuan,Aceh,212223253,Nail Polish IJK,Cosmetics,1
+240,6/15/2022,CTR0200528,45,Perempuan,Bandung,778899001,Shampoo VWX,Hair Treatment,2
+241,6/15/2022,CTR0200556,40,Perempuan,Banjarmasin,141516171,Foot Cream NOP,Body Treatment,1
+242,6/15/2022,CTR0200420,36,Laki-laki,Bekasi,TNF-NUP,Jaket The North Face Nuptse,Fashion,1
+243,6/15/2022,CTR0200477,22,Perempuan,Denpasar,121314151,Hand Cream HIJ,Body Treatment,4
+244,6/15/2022,CTR0200533,53,Laki-laki,Jambi,INT-AIR,Kasur Intex Airbed,Home Appliances,1
+245,6/15/2022,CTR0200435,47,Perempuan,Lampung,112233445,Lip Balm DEF,Cosmetics,9
+246,6/15/2022,CTR0200534,47,Perempuan,Malang,202122242,Deodorant FGH,Cosmetics,1
+247,6/15/2022,CTR0200502,26,Perempuan,Manado,242526286,Whitening Cream RST,Cosmetics,1
+248,6/15/2022,CTR0200545,52,Perempuan,Mataram,445566778,Hair Serum MNO,Hair Treatment,1
+249,6/15/2022,CTR0200541,49,Perempuan,Medan,778899001,Shampoo VWX,Hair Treatment,2
+250,6/15/2022,CTR0200497,35,Perempuan,Surabaya,222324264,Acne Gel LMN,Cosmetics,2
+251,6/15/2022,CTR0200442,27,Laki-laki,Semarang,FOS-GEN5,Jam Tangan Fossil Gen 5,Convinience Goods,1
+252,6/15/2022,CTR0200432,22,Perempuan,Pekanbaru,212223253,Nail Polish IJK,Cosmetics,1
+253,6/15/2022,CTR0200508,37,Laki-laki,Tangerang,KIT-ARTIS,Mixer Kitchenaid Artisan,Electronics and Gadget,3
+254,6/15/2022,CTR0200523,48,Laki-laki,Samarinda, PHI-AF9650,Air Fryer Philips HD9650,Home Appliances,1
+255,6/15/2022,CTR0200478,23,Laki-laki,Pontianak,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,2
+256,6/16/2022,CTR0200567,36,Perempuan,Aceh,445566778,Hair Serum MNO,Hair Treatment,1
+257,6/16/2022,CTR0200528,45,Perempuan,Bandung,121314151,Hand Cream HIJ,Body Treatment,1
+258,6/16/2022,CTR0200556,40,Perempuan,Banjarmasin,223344556,Sunscreen GHI,Body Treatment,1
+259,6/16/2022,CTR0200420,36,Laki-laki,Bekasi,JBL-CHARGE4,Speaker Bluetooth JBL Charge 4,Electronics and Gadget,2
+260,6/16/2022,CTR0200477,22,Perempuan,Denpasar,556677889,Face Mask PQR,Cosmetics,3
+261,6/16/2022,CTR0200533,53,Laki-laki,Jambi,XIA-RED-AIR,Earphone Xiaomi Redmi AirDots,Electronics and Gadget,1
+262,6/16/2022,CTR0200439,18,Perempuan,Lampung,131415161,Face Oil KLM,Cosmetics,24
+263,6/16/2022,CTR0200557,43,Perempuan,Malang,889900112,Conditioner YZA,Hair Treatment,1
+264,6/16/2022,CTR0200502,26,Perempuan,Manado,101112131,Body Scrub EFG,Body Treatment,1
+265,6/16/2022,CTR0200545,52,Perempuan,Mataram,223344556,Sunscreen GHI,Body Treatment,1
+266,6/16/2022,CTR0200541,49,Perempuan,Medan,161718191,Makeup Remover TUV,Cosmetics,1
+267,6/16/2022,CTR0200497,35,Perempuan,Surabaya,232425275,Perfume OPQ,Cosmetics,1
+268,6/16/2022,CTR0200442,27,Laki-laki,Semarang,JBL-CHARGE4,Speaker Bluetooth JBL Charge 4,Electronics and Gadget,1
+269,6/16/2022,CTR0200432,22,Perempuan,Pekanbaru,161718191,Makeup Remover TUV,Cosmetics,2
+270,6/16/2022,CTR0200508,37,Laki-laki,Tangerang,VIV-V21,Smartphone Vivo V21,Electronics and Gadget,1
+271,6/16/2022,CTR0200523,48,Laki-laki,Samarinda,QQ-DIG,Jam Dinding Q&Q,Furniture,1
+272,6/16/2022,CTR0200478,23,Laki-laki,Pontianak,QQ-DIG,Jam Dinding Q&Q,Furniture,1
+273,6/17/2022,CTR0200567,36,Perempuan,Aceh,112233445,Lip Balm DEF,Cosmetics,1
+274,6/17/2022,CTR0200528,45,Perempuan,Bandung,151617181,Face Serum QRS,Cosmetics,1
+275,6/17/2022,CTR0200556,40,Perempuan,Banjarmasin,131415161,Face Oil KLM,Cosmetics,1
+276,6/17/2022,CTR0200420,36,Laki-laki,Bekasi,PHI-HUE,Lampu LED Philips Hue White,Electronics and Gadget,2
+277,6/17/2022,CTR0200477,22,Perempuan,Denpasar,778899001,Shampoo VWX,Hair Treatment,4
+278,6/17/2022,CTR0200533,53,Laki-laki,Jambi,IKE-MF,Bantal Memory Foam IKEA,Electronics and Gadget,1
+279,6/17/2022,CTR0200439,18,Perempuan,Lampung,141516171,Foot Cream NOP,Body Treatment,5
+280,6/17/2022,CTR0200557,43,Perempuan,Malang,171819202,Lipstick WXY,Cosmetics,1
+281,6/17/2022,CTR0200502,26,Perempuan,Manado,131415161,Face Oil KLM,Cosmetics,2
+282,6/17/2022,CTR0200545,52,Perempuan,Mataram,222324264,Acne Gel LMN,Cosmetics,2
+283,6/17/2022,CTR0200564,36,Perempuan,Medan,192021232,Hair Mask CDE,Hair Treatment,2
+284,6/17/2022,CTR0200497,35,Perempuan,Surabaya,171819202,Lipstick WXY,Cosmetics,1
+285,6/17/2022,CTR0200442,27,Laki-laki,Semarang,LG-OLED55,TV LG OLED55CX,Electronics and Gadget,1
+286,6/17/2022,CTR0200432,22,Perempuan,Pekanbaru,667788990,Toner STU,Cosmetics,1
+287,6/17/2022,CTR0200508,37,Laki-laki,Tangerang,TUP-SET10,Set Peralatan Dapur Tupperware,Kitchen Appliances,1
+288,6/17/2022,CTR0200523,48,Laki-laki,Samarinda,AC-PH300,Laptop Acer Predator Helios 300,Computer,12
+289,6/17/2022,CTR0200488,47,Perempuan,Pontianak,112233445,Lip Balm DEF,Cosmetics,1
+290,6/18/2022,CTR0200567,36,Perempuan,Aceh,112233445,Lip Balm DEF,Cosmetics,2
+291,6/18/2022,CTR0200528,45,Perempuan,Bandung,141516171,Foot Cream NOP,Body Treatment,1
+292,6/18/2022,CTR0200556,40,Perempuan,Banjarmasin,121314151,Hand Cream HIJ,Body Treatment,1
+293,6/18/2022,CTR0200420,36,Laki-laki,Bekasi,PHI-HR2116,Blender Philips HR2116,Electronics and Gadget,1
+294,6/18/2022,CTR0200477,22,Perempuan,Denpasar,131415161,Face Oil KLM,Cosmetics,2
+295,6/18/2022,CTR0200542,47,Laki-laki,Jambi,IKE-BEK,Meja Kerja IKEA Bekant,Home Appliances,1
+296,6/18/2022,CTR0200457,24,Laki-laki,Lampung,HP-DJ2630,Printer HP DeskJet 2630,Computer,1
+297,6/18/2022,CTR0200557,43,Perempuan,Malang,556677889,Face Mask PQR,Cosmetics,2
+298,6/18/2022,CTR0200502,26,Perempuan,Manado,223344556,Sunscreen GHI,Body Treatment,7
+299,6/18/2022,CTR0200545,52,Perempuan,Mataram,990011223,Eye Cream BCD,Cosmetics,3
+300,6/18/2022,CTR0200564,36,Perempuan,Medan,161718191,Makeup Remover TUV,Cosmetics,1
+301,6/18/2022,CTR0200497,35,Perempuan,Surabaya,987654321,Moisturizer ABC,Cosmetics,1
+302,6/18/2022,CTR0200442,27,Laki-laki,Semarang,JBL-CHARGE4,Speaker Bluetooth JBL Charge 4,Electronics and Gadget,1
+303,6/18/2022,CTR0200432,22,Perempuan,Pekanbaru,131415161,Face Oil KLM,Cosmetics,2
+304,6/18/2022,CTR0200508,37,Laki-laki,Tangerang,CAS-GSHOCK,Jam Tangan Casio G-Shock,Convinience Goods,1
+305,6/18/2022,CTR0200523,48,Laki-laki,Samarinda,SAM-FL8,Mesin Cuci Samsung Front Load,Electronics and Gadget,25
+306,6/18/2022,CTR0200488,47,Perempuan,Pontianak,202122242,Deodorant FGH,Cosmetics,1
+307,6/19/2022,CTR0200568,37,Perempuan,Aceh,556677889,Face Mask PQR,Cosmetics,1
+308,6/19/2022,CTR0200528,45,Perempuan,Bandung,990011223,Eye Cream BCD,Cosmetics,2
+309,6/19/2022,CTR0200562,40,Perempuan,Banjarmasin,778899001,Shampoo VWX,Hair Treatment,1
+310,6/19/2022,CTR0200421,48,Laki-laki,Bekasi,KIT-ARTIS,Mixer Kitchenaid Artisan,Electronics and Gadget,3
+311,6/19/2022,CTR0200487,35,Perempuan,Denpasar,192021232,Hair Mask CDE,Hair Treatment,1
+312,6/19/2022,CTR0200542,47,Laki-laki,Jambi,SON-RX100,Kamera Sony RX100 VII,Electronics and Gadget,1
+313,6/19/2022,CTR0200457,24,Laki-laki,Lampung,FOS-GEN5,Jam Tangan Fossil Gen 5,Convinience Goods,2
+314,6/19/2022,CTR0200557,43,Perempuan,Malang,778899001,Shampoo VWX,Hair Treatment,1
+315,6/19/2022,CTR0200502,26,Perempuan,Manado,223344556,Sunscreen GHI,Body Treatment,4
+316,6/19/2022,CTR0200545,52,Perempuan,Mataram,141516171,Foot Cream NOP,Body Treatment,1
+317,6/19/2022,CTR0200564,36,Perempuan,Medan,101112131,Body Scrub EFG,Body Treatment,1
+318,6/19/2022,CTR0200510,44,Laki-laki,Surabaya,TNF-NUP,Jaket The North Face Nuptse,Fashion,1
+319,6/19/2022,CTR0200442,27,Laki-laki,Semarang,SHA-SJ185,Kulkas Sharp 2 Pintu SJ-X185,Electronics and Gadget,1
+320,6/19/2022,CTR0200432,22,Perempuan,Pekanbaru,131415161,Face Oil KLM,Cosmetics,4
+321,6/19/2022,CTR0200508,37,Laki-laki,Tangerang,SAM-S21,Ponsel Samsung Galaxy S21,Electronics and Gadget,5
+322,6/19/2022,CTR0200523,48,Laki-laki,Samarinda,JATI-MEJA,Meja Makan Kayu Jati,Kitchen Appliances,7
+323,6/19/2022,CTR0200495,38,Laki-laki,Pontianak,NIK-D3500,Kamera Nikon D3500,Electronics and Gadget,2
+324,6/20/2022,CTR0200568,37,Perempuan,Aceh,667788990,Toner STU,Cosmetics,3
+325,6/20/2022,CTR0200528,45,Perempuan,Bandung,112233445,Lip Balm DEF,Cosmetics,1
+326,6/20/2022,CTR0200562,40,Perempuan,Banjarmasin,556677889,Face Mask PQR,Cosmetics,9
+327,6/20/2022,CTR0200421,48,Laki-laki,Bekasi,FOS-SEL,Tas Selempang Fossil,Equipments,1
+328,6/20/2022,CTR0200487,35,Perempuan,Denpasar,112233445,Lip Balm DEF,Cosmetics,1
+329,6/20/2022,CTR0200542,47,Laki-laki,Jambi,VIV-V21,Smartphone Vivo V21,Electronics and Gadget,1
+330,6/20/2022,CTR0200475,39,Laki-laki,Lampung,SAM-FL8,Mesin Cuci Samsung Front Load,Electronics and Gadget,1
+331,6/20/2022,CTR0200557,43,Perempuan,Malang,121314151,Hand Cream HIJ,Body Treatment,1
+332,6/20/2022,CTR0200502,26,Perempuan,Manado,101112131,Body Scrub EFG,Body Treatment,1
+333,6/20/2022,CTR0200545,52,Perempuan,Mataram,161718191,Makeup Remover TUV,Cosmetics,5
+334,6/20/2022,CTR0200564,36,Perempuan,Medan,212223253,Nail Polish IJK,Cosmetics,1
+335,6/20/2022,CTR0200510,44,Laki-laki,Surabaya, IKE-LER,Meja Makan IKEA LERHAMN,Kitchen Appliances,2
+336,6/20/2022,CTR0200442,27,Laki-laki,Semarang, IKE-LER,Meja Makan IKEA LERHAMN,Kitchen Appliances,1
+337,6/20/2022,CTR0200432,22,Perempuan,Pekanbaru,223344556,Sunscreen GHI,Body Treatment,1
+338,6/20/2022,CTR0200497,35,Perempuan,Surabaya,112233445,Lip Balm DEF,Cosmetics,1
+339,6/20/2022,CTR0200547,35,Laki-laki,Samarinda,IKE-KALLAX,Rak Buku IKEA Kallax,Home Appliances,1
+340,6/20/2022,CTR0200495,38,Laki-laki,Pontianak,LOG-G502,Papan Mouse Logitech G502,Computer,1
+341,6/21/2022,CTR0200568,37,Perempuan,Aceh,121314151,Hand Cream HIJ,Body Treatment,1
+342,6/21/2022,CTR0200528,45,Perempuan,Bandung,242526286,Whitening Cream RST,Cosmetics,3
+343,6/21/2022,CTR0200562,40,Perempuan,Banjarmasin,334455667,Body Lotion JKL,Body Treatment,1
+344,6/21/2022,CTR0200421,48,Laki-laki,Bekasi,ADI-UB21,Sepatu Adidas Ultraboost 21,Fashion,2
+345,6/21/2022,CTR0200521,54,Laki-laki,Denpasar,IKE-365,Set Alat Makan IKEA 365+,Kitchen Appliances,2
+346,6/21/2022,CTR0200542,47,Laki-laki,Jambi,LAN-WB,Masker Wajah Laneige Water Bank,Cosmetics,1
+347,6/21/2022,CTR0200475,39,Laki-laki,Lampung,LOG-K380,Keyboard Logitech K380,Computer,1
+348,6/21/2022,CTR0200557,43,Perempuan,Malang,223344556,Sunscreen GHI,Body Treatment,1
+349,6/21/2022,CTR0200502,26,Perempuan,Manado,232425275,Perfume OPQ,Cosmetics,1
+350,6/21/2022,CTR0200447,45,Perempuan,Medan,222324264,Acne Gel LMN,Cosmetics,2
+351,6/21/2022,CTR0200564,36,Perempuan,Medan,151617181,Face Serum QRS,Cosmetics,1
+352,6/21/2022,CTR0200510,44,Laki-laki,Surabaya,PHI-HR2116,Blender Philips HR2116,Electronics and Gadget,1
+353,6/21/2022,CTR0200442,27,Laki-laki,Semarang,SAM-FL8,Mesin Cuci Samsung Front Load,Electronics and Gadget,2
+354,6/21/2022,CTR0200432,22,Perempuan,Pekanbaru,242526286,Whitening Cream RST,Cosmetics,2
+355,6/21/2022,CTR0200497,35,Perempuan,Surabaya,556677889,Face Mask PQR,Cosmetics,1
+356,6/21/2022,CTR0200547,35,Laki-laki,Samarinda,SON-X950H,TV Sony Bravia X950H,Electronics and Gadget,1
+357,6/21/2022,CTR0200495,38,Laki-laki,Pontianak,SAM-FL8,Mesin Cuci Samsung Front Load,Electronics and Gadget,1
+358,6/22/2022,CTR0200568,37,Perempuan,Aceh,242526286,Whitening Cream RST,Cosmetics,1
+359,6/22/2022,CTR0200528,45,Perempuan,Bandung,334455667,Body Lotion JKL,Body Treatment,12
+360,6/22/2022,CTR0200562,40,Perempuan,Banjarmasin,101112131,Body Scrub EFG,Body Treatment,1
+361,6/22/2022,CTR0200427,54,Perempuan,Bekasi,151617181,Face Serum QRS,Cosmetics,1
+362,6/22/2022,CTR0200521,54,Laki-laki,Denpasar,IKE-TRONES,Rak Sepatu IKEA TRONES,Home Appliances,1
+363,6/22/2022,CTR0200542,47,Laki-laki,Jambi,IKE-KUNG,Papan Setrika IKEA Kungsfors,Home Appliances,1
+364,6/22/2022,CTR0200475,39,Laki-laki,Lampung,CAS-GSHOCK,Jam Tangan Casio G-Shock,Convinience Goods,1
+365,6/22/2022,CTR0200416,38,Laki-laki,Manado,LOG-K380,Keyboard Logitech K380,Computer,2
+366,6/22/2022,CTR0200502,26,Perempuan,Manado,161718191,Makeup Remover TUV,Cosmetics,1
+367,6/22/2022,CTR0200447,45,Perempuan,Medan,151617181,Face Serum QRS,Cosmetics,1
+368,6/22/2022,CTR0200564,36,Perempuan,Medan,778899001,Shampoo VWX,Hair Treatment,1
+369,6/22/2022,CTR0200510,44,Laki-laki,Surabaya,YON-AST99,Raket Badminton Yonex Astrox 99,Sport,11
+370,6/22/2022,CTR0200442,27,Laki-laki,Semarang,XIA-RED-AIR,Earphone Xiaomi Redmi AirDots,Electronics and Gadget,1
+371,6/22/2022,CTR0200432,22,Perempuan,Pekanbaru,202122242,Deodorant FGH,Cosmetics,1
+372,6/22/2022,CTR0200497,35,Perempuan,Surabaya,202122242,Deodorant FGH,Cosmetics,3
+373,6/22/2022,CTR0200547,35,Laki-laki,Samarinda,OXO-SET,Set Peralatan Dapur OXO,Kitchen Appliances,1
+374,6/22/2022,CTR0200512,29,Laki-laki,Pontianak,IKE-PAX,Lemari Pakaian IKEA PAX,Home Appliances,1
+375,6/23/2022,CTR0200568,37,Perempuan,Aceh,242526286,Whitening Cream RST,Cosmetics,1
+376,6/23/2022,CTR0200528,45,Perempuan,Bandung,222324264,Acne Gel LMN,Cosmetics,3
+377,6/23/2022,CTR0200562,40,Perempuan,Banjarmasin,121314151,Hand Cream HIJ,Body Treatment,1
+378,6/23/2022,CTR0200427,54,Perempuan,Bekasi,889900112,Conditioner YZA,Hair Treatment,1
+379,6/23/2022,CTR0200522,47,Perempuan,Denpasar,101112131,Body Scrub EFG,Body Treatment,3
+380,6/23/2022,CTR0200542,47,Laki-laki,Jambi,TEF-EX24,Panci Tefal Expertise,Kitchen Appliances,4
+381,6/23/2022,CTR0200475,39,Laki-laki,Lampung,IKE-KUNG,Papan Setrika IKEA Kungsfors,Home Appliances,1
+382,6/23/2022,CTR0200466,47,Perempuan,Manado,123456789,Facial Cleanser XYZ,Cosmetics,2
+383,6/23/2022,CTR0200502,26,Perempuan,Manado,181920212,Blush ZAB,Cosmetics,1
+384,6/23/2022,CTR0200447,45,Perempuan,Medan,181920212,Blush ZAB,Cosmetics,1
+385,6/23/2022,CTR0200564,36,Perempuan,Medan,171819202,Lipstick WXY,Cosmetics,1
+386,6/23/2022,CTR0200510,44,Laki-laki,Surabaya,OXO-SET,Set Peralatan Dapur OXO,Kitchen Appliances,10
+387,6/23/2022,CTR0200442,27,Laki-laki,Semarang,PHI-PRO,Vacuum Cleaner Philips PowerPro,Electronics and Gadget,2
+388,6/23/2022,CTR0200432,22,Perempuan,Pekanbaru,223344556,Sunscreen GHI,Body Treatment,1
+389,6/23/2022,CTR0200497,35,Perempuan,Surabaya,556677889,Face Mask PQR,Cosmetics,1
+390,6/23/2022,CTR0200547,35,Laki-laki,Samarinda,JATI-MEJA,Meja Makan Kayu Jati,Kitchen Appliances,1
+391,6/23/2022,CTR0200512,29,Laki-laki,Pontianak,SON-A7III,Kamera Sony Alpha A7 III,Electronics and Gadget,1
+392,6/24/2022,CTR0200568,37,Perempuan,Aceh,334455667,Body Lotion JKL,Body Treatment,1
+393,6/24/2022,CTR0200528,45,Perempuan,Bandung,181920212,Blush ZAB,Cosmetics,1
+394,6/24/2022,CTR0200562,40,Perempuan,Banjarmasin,445566778,Hair Serum MNO,Hair Treatment,1
+395,6/24/2022,CTR0200446,40,Perempuan,Bekasi,334455667,Body Lotion JKL,Body Treatment,2
+396,6/24/2022,CTR0200522,47,Perempuan,Denpasar,121314151,Hand Cream HIJ,Body Treatment,1
+397,6/24/2022,CTR0200542,47,Laki-laki,Jambi,ANK-PW10,Wireless Charger Anker PowerWave,Electronics and Gadget,1
+398,6/24/2022,CTR0200475,39,Laki-laki,Lampung,CAS-GSHOCK,Jam Tangan Casio G-Shock,Convinience Goods,4
+399,6/24/2022,CTR0200466,47,Perempuan,Manado,181920212,Blush ZAB,Cosmetics,1
+400,6/24/2022,CTR0200502,26,Perempuan,Manado,141516171,Foot Cream NOP,Body Treatment,1
+401,6/24/2022,CTR0200447,45,Perempuan,Medan,990011223,Eye Cream BCD,Cosmetics,1
+402,6/24/2022,CTR0200564,36,Perempuan,Medan,445566778,Hair Serum MNO,Hair Treatment,1
+403,6/24/2022,CTR0200510,44,Laki-laki,Surabaya,LOG-K380,Keyboard Logitech K380,Computer,1
+404,6/24/2022,CTR0200442,27,Laki-laki,Semarang,YON-AST99,Raket Badminton Yonex Astrox 99,Sport,4
+405,6/24/2022,CTR0200432,22,Perempuan,Pekanbaru,121314151,Hand Cream HIJ,Body Treatment,1
+406,6/24/2022,CTR0200497,35,Perempuan,Surabaya,556677889,Face Mask PQR,Cosmetics,1
+407,6/24/2022,CTR0200547,35,Laki-laki,Samarinda,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,1
+408,6/24/2022,CTR0200517,45,Laki-laki,Pontianak,NIK-D3500,Kamera Nikon D3500,Electronics and Gadget,1
+409,6/25/2022,CTR0200569,40,Perempuan,Aceh,151617181,Face Serum QRS,Cosmetics,2
+410,6/25/2022,CTR0200528,45,Perempuan,Bandung,171819202,Lipstick WXY,Cosmetics,1
+411,6/25/2022,CTR0200450,42,Laki-laki,Banyuwangi,SON-A7III,Kamera Sony Alpha A7 III,Electronics and Gadget,1
+412,6/25/2022,CTR0200446,40,Perempuan,Bekasi,223344556,Sunscreen GHI,Body Treatment,1
+413,6/25/2022,CTR0200578,44,Perempuan,Denpasar,223344556,Sunscreen GHI,Body Treatment,1
+414,6/25/2022,CTR0200474,40,Perempuan,Jember,223344556,Sunscreen GHI,Body Treatment,1
+415,6/25/2022,CTR0200475,39,Laki-laki,Lampung,NIK-AM270,Sepatu Nike Air Max 270,Fashion,1
+416,6/25/2022,CTR0200466,47,Perempuan,Manado,778899001,Shampoo VWX,Hair Treatment,2
+417,6/25/2022,CTR0200502,26,Perempuan,Manado,121314151,Hand Cream HIJ,Body Treatment,1
+418,6/25/2022,CTR0200447,45,Perempuan,Medan,202122242,Deodorant FGH,Cosmetics,3
+419,6/25/2022,CTR0200564,36,Perempuan,Medan,161718191,Makeup Remover TUV,Cosmetics,1
+420,6/25/2022,CTR0200510,44,Laki-laki,Surabaya,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,1
+421,6/25/2022,CTR0200442,27,Laki-laki,Semarang,NIK-AM270,Sepatu Nike Air Max 270,Fashion,1
+422,6/25/2022,CTR0200432,22,Perempuan,Pekanbaru,121314151,Hand Cream HIJ,Body Treatment,2
+423,6/25/2022,CTR0200497,35,Perempuan,Surabaya,334455667,Body Lotion JKL,Body Treatment,1
+424,6/25/2022,CTR0200547,35,Laki-laki,Samarinda,ERG-MK100,Meja Kerja Ergotron,Home Appliances,1
+425,6/26/2022,CTR0200569,40,Perempuan,Aceh,334455667,Body Lotion JKL,Body Treatment,1
+426,6/26/2022,CTR0200531,47,Laki-laki,Bandung,IKE-SKUBB,Rak Sepatu IKEA SKUBB,Home Appliances,1
+427,6/26/2022,CTR0200450,42,Laki-laki,Banyuwangi,ADI-UB21,Sepatu Adidas Ultraboost 21,Fashion,2
+428,6/26/2022,CTR0200446,40,Perempuan,Bekasi,334455667,Body Lotion JKL,Body Treatment,2
+429,6/26/2022,CTR0200578,44,Perempuan,Denpasar,667788990,Toner STU,Cosmetics,1
+430,6/26/2022,CTR0200474,40,Perempuan,Jember,242526286,Whitening Cream RST,Cosmetics,1
+431,6/26/2022,CTR0200475,39,Laki-laki,Lampung,APP-IP13,Smartphone Apple iPhone 13,Electronics and Gadget,2
+432,6/26/2022,CTR0200466,47,Perempuan,Manado,556677889,Face Mask PQR,Cosmetics,3
+433,6/26/2022,CTR0200503,43,Perempuan,Manado,445566778,Hair Serum MNO,Hair Treatment,1
+434,6/26/2022,CTR0200447,45,Perempuan,Medan,556677889,Face Mask PQR,Cosmetics,1
+435,6/26/2022,CTR0200564,36,Perempuan,Medan,242526286,Whitening Cream RST,Cosmetics,1
+436,6/26/2022,CTR0200510,44,Laki-laki,Surabaya,IKE-TRONES,Rak Sepatu IKEA TRONES,Home Appliances,1
+437,6/26/2022,CTR0200451,50,Perempuan,Semarang,212223253,Nail Polish IJK,Cosmetics,1
+438,6/26/2022,CTR0200432,22,Perempuan,Pekanbaru,212223253,Nail Polish IJK,Cosmetics,1
+439,6/26/2022,CTR0200584,25,Perempuan,Surabaya,222324264,Acne Gel LMN,Cosmetics,1
+440,6/26/2022,CTR0200547,35,Laki-laki,Samarinda,BATIK-MR,Kemeja Batik Pria,Fashion,3
+441,6/27/2022,CTR0200569,40,Perempuan,Aceh,222324264,Acne Gel LMN,Cosmetics,1
+442,6/27/2022,CTR0200433,23,Laki-laki,Bangka Belitung,VIV-V21,Smartphone Vivo V21,Electronics and Gadget,2
+443,6/27/2022,CTR0200450,42,Laki-laki,Banyuwangi,ANK-PW10,Wireless Charger Anker PowerWave,Electronics and Gadget,2
+444,6/27/2022,CTR0200483,29,Perempuan,Bekasi,242526286,Whitening Cream RST,Cosmetics,2
+445,6/27/2022,CTR0200583,28,Laki-laki,Denpasar,SAN-2P180,Kulkas Sanyo 2 Pintu,Electronics and Gadget,7
+446,6/27/2022,CTR0200474,40,Perempuan,Jember,987654321,Moisturizer ABC,Cosmetics,5
+447,6/27/2022,CTR0200475,39,Laki-laki,Lampung,TNF-NUP,Jaket The North Face Nuptse,Fashion,1
+448,6/27/2022,CTR0200466,47,Perempuan,Manado,151617181,Face Serum QRS,Cosmetics,2
+449,6/27/2022,CTR0200518,49,Laki-laki,Manado,SON-RX100,Kamera Sony RX100 VII,Electronics and Gadget,2
+450,6/27/2022,CTR0200447,45,Perempuan,Medan,232425275,Perfume OPQ,Cosmetics,1
+451,6/27/2022,CTR0200564,36,Perempuan,Medan,778899001,Shampoo VWX,Hair Treatment,2
+452,6/27/2022,CTR0200510,44,Laki-laki,Surabaya,JAM-COOK,Buku Panduan Memasak Jamie Oliver,Books,1
+453,6/27/2022,CTR0200451,50,Perempuan,Semarang,112233445,Lip Balm DEF,Cosmetics,1
+454,6/27/2022,CTR0200432,22,Perempuan,Pekanbaru,181920212,Blush ZAB,Cosmetics,2
+455,6/27/2022,CTR0200584,25,Perempuan,Surabaya,223344556,Sunscreen GHI,Body Treatment,2
+456,6/27/2022,CTR0200547,35,Laki-laki,Samarinda,JBL-CHARGE4,Speaker Bluetooth JBL Charge 4,Electronics and Gadget,1
+457,6/28/2022,CTR0200576,36,Laki-laki,Aceh,RIN-RI511,Kompor Gas Rinnai RI-511,Kitchen Appliances,5
+458,6/28/2022,CTR0200433,23,Laki-laki,Bangka Belitung,IKE-PAX,Lemari Pakaian IKEA PAX,Home Appliances,1
+459,6/28/2022,CTR0200450,42,Laki-laki,Banyuwangi,NIK-AM270,Sepatu Nike Air Max 270,Fashion,6
+460,6/28/2022,CTR0200483,29,Perempuan,Bekasi,778899001,Shampoo VWX,Hair Treatment,1
+461,6/28/2022,CTR0200583,28,Laki-laki,Denpasar,SON-WH1000,Headphone Sony WH-1000XM4,Electronics and Gadget,5
+462,6/28/2022,CTR0200474,40,Perempuan,Jember,667788990,Toner STU,Cosmetics,1
+463,6/28/2022,CTR0200486,49,Laki-laki,Lampung,DYS-PCOOL,Kipas Angin Dyson Pure Cool,Electronics and Gadget,1
+464,6/28/2022,CTR0200466,47,Perempuan,Manado,556677889,Face Mask PQR,Cosmetics,3
+465,6/28/2022,CTR0200518,49,Laki-laki,Manado,RIN-RI511,Kompor Gas Rinnai RI-511,Kitchen Appliances,1
+466,6/28/2022,CTR0200447,45,Perempuan,Medan,667788990,Toner STU,Cosmetics,1
+467,6/28/2022,CTR0200564,36,Perempuan,Medan,223344556,Sunscreen GHI,Body Treatment,1
+468,6/28/2022,CTR0200510,44,Laki-laki,Surabaya,SAM-Q60T,Televisi Samsung Q60,Electronics and Gadget,2
+469,6/28/2022,CTR0200451,50,Perempuan,Semarang,112233445,Lip Balm DEF,Cosmetics,2
+470,6/28/2022,CTR0200452,49,Laki-laki,Pekanbaru,IKE-PAX,Lemari Pakaian IKEA PAX,Home Appliances,1
+471,6/28/2022,CTR0200584,25,Perempuan,Surabaya,181920212,Blush ZAB,Cosmetics,1
+472,6/28/2022,CTR0200547,35,Laki-laki,Samarinda,JATI-MEJA,Meja Makan Kayu Jati,Kitchen Appliances,1
+473,6/29/2022,CTR0200576,36,Laki-laki,Aceh,IKE-SKUBB,Rak Sepatu IKEA SKUBB,Home Appliances,5
+474,6/29/2022,CTR0200433,23,Laki-laki,Bangka Belitung,APP-IP13,Smartphone Apple iPhone 13,Electronics and Gadget,1
+475,6/29/2022,CTR0200450,42,Laki-laki,Banyuwangi,POL-X5,Sepeda Polygon Xtrada 5,Sport,3
+476,6/29/2022,CTR0200483,29,Perempuan,Bekasi,181920212,Blush ZAB,Cosmetics,2
+477,6/29/2022,CTR0200422,24,Perempuan,Depok,131415161,Face Oil KLM,Cosmetics,1
+478,6/29/2022,CTR0200474,40,Perempuan,Jember,232425275,Perfume OPQ,Cosmetics,2
+479,6/29/2022,CTR0200486,49,Laki-laki,Lampung,CAS-GSHOCK,Jam Tangan Casio G-Shock,Convinience Goods,1
+480,6/29/2022,CTR0200466,47,Perempuan,Manado,181920212,Blush ZAB,Cosmetics,1
+481,6/29/2022,CTR0200518,49,Laki-laki,Manado,SAM-TROL,Koper Trolley Samsonite,Equipments,1
+482,6/29/2022,CTR0200447,45,Perempuan,Medan,334455667,Body Lotion JKL,Body Treatment,2
+483,6/29/2022,CTR0200566,35,Perempuan,Medan,667788990,Toner STU,Cosmetics,1
+484,6/29/2022,CTR0200510,44,Laki-laki,Surabaya,RAL-POL,Kemeja Polo Ralph Lauren,Fashion,2
+485,6/29/2022,CTR0200451,50,Perempuan,Semarang,212223253,Nail Polish IJK,Cosmetics,3
+486,6/29/2022,CTR0200452,49,Laki-laki,Pekanbaru,JAM-COOK,Buku Panduan Memasak Jamie Oliver,Books,2
+487,6/29/2022,CTR0200584,25,Perempuan,Surabaya,990011223,Eye Cream BCD,Cosmetics,1
+488,6/29/2022,CTR0200547,35,Laki-laki,Samarinda,TEF-ING5,Set Peralatan Dapur Tefal Ingenio,Home Appliances,1
+489,6/30/2022,CTR0200485,48,Perempuan,Balikpapan,667788990,Toner STU,Cosmetics,1
+490,6/30/2022,CTR0200433,23,Laki-laki,Bangka Belitung,IKE-LON,Jam Dinding IKEA LONSAS,Furniture,1
+491,6/30/2022,CTR0200450,42,Laki-laki,Banyuwangi,DYS-V11,Vacuum Cleaner Dyson V11,Electronics and Gadget,1
+492,6/30/2022,CTR0200483,29,Perempuan,Bekasi,667788990,Toner STU,Cosmetics,1
+493,6/30/2022,CTR0200422,24,Perempuan,Depok,192021232,Hair Mask CDE,Hair Treatment,1
+494,6/30/2022,CTR0200474,40,Perempuan,Jember,121314151,Hand Cream HIJ,Body Treatment,1
+495,6/30/2022,CTR0200498,43,Laki-laki,Lampung,NES-PIX,Mesin Kopi Nespresso Pixie,Electronics and Gadget,1
+496,6/30/2022,CTR0200466,47,Perempuan,Manado,181920212,Blush ZAB,Cosmetics,1
+497,6/30/2022,CTR0200518,49,Laki-laki,Manado,MIY-BL102,Blender Miyako BL-102,Electronics and Gadget,1
+498,6/30/2022,CTR0200462,27,Perempuan,Medan,202122242,Deodorant FGH,Cosmetics,1
+499,6/30/2022,CTR0200413,60,Perempuan,Padang,778899001,Shampoo VWX,Hair Treatment,1
+500,6/30/2022,CTR0200510,44,Laki-laki,Surabaya,BOS-QC35,Headphone Bose QuietComfort 35,Electronics and Gadget,5
+501,6/30/2022,CTR0200451,50,Perempuan,Semarang,667788990,Toner STU,Cosmetics,1
+502,6/30/2022,CTR0200453,47,Perempuan,Pekanbaru,556677889,Face Mask PQR,Cosmetics,1
+503,6/30/2022,CTR0200584,25,Perempuan,Surabaya,181920212,Blush ZAB,Cosmetics,1
+504,6/30/2022,CTR0200547,35,Laki-laki,Samarinda,MK-BRAD,Jam Tangan Michael Kors Bradshaw,Convinience Goods,1
+505,7/1/2022,CTR0200485,48,Perempuan,Balikpapan,778899001,Shampoo VWX,Hair Treatment,1
+506,7/1/2022,CTR0200433,23,Laki-laki,Bangka Belitung,SHA-SJ185,Kulkas Sharp 2 Pintu SJ-X185,Electronics and Gadget,2
+507,7/1/2022,CTR0200450,42,Laki-laki,Banyuwangi,SAM-S21,Ponsel Samsung Galaxy S21,Electronics and Gadget,10
+508,7/1/2022,CTR0200431,43,Perempuan,Bogor,232425275,Perfume OPQ,Cosmetics,1
+509,7/1/2022,CTR0200422,24,Perempuan,Depok,232425275,Perfume OPQ,Cosmetics,1
+510,7/1/2022,CTR0200474,40,Perempuan,Jember,778899001,Shampoo VWX,Hair Treatment,1
+511,7/1/2022,CTR0200498,43,Laki-laki,Lampung,GAR-FR245,Jam Tangan Garmin Forerunner 245,Convinience Goods,1
+512,7/1/2022,CTR0200466,47,Perempuan,Manado,242526286,Whitening Cream RST,Cosmetics,1
+513,7/1/2022,CTR0200411,18,Perempuan,Mataram,492350277,PC Camera,Electronics and Gadget,1
+514,7/1/2022,CTR0200462,27,Perempuan,Medan,556677889,Face Mask PQR,Cosmetics,1
+515,7/1/2022,CTR0200413,60,Perempuan,Padang,151617181,Face Serum QRS,Cosmetics,1
+516,7/1/2022,CTR0200510,44,Laki-laki,Surabaya,SAM-FRAME55,TV Samsung The Frame,Electronics and Gadget,1
+517,7/1/2022,CTR0200451,50,Perempuan,Semarang,181920212,Blush ZAB,Cosmetics,3
+518,7/1/2022,CTR0200453,47,Perempuan,Pekanbaru,141516171,Foot Cream NOP,Body Treatment,3
+519,7/1/2022,CTR0200584,25,Perempuan,Surabaya,334455667,Body Lotion JKL,Body Treatment,1
+520,7/1/2022,CTR0200548,36,Perempuan,Samarinda,445566778,Hair Serum MNO,Hair Treatment,1
+521,7/2/2022,CTR0200485,48,Perempuan,Balikpapan,212223253,Nail Polish IJK,Cosmetics,2
+522,7/2/2022,CTR0200433,23,Laki-laki,Bangka Belitung,ERG-MK100,Meja Kerja Ergotron,Home Appliances,1
+523,7/2/2022,CTR0200450,42,Laki-laki,Banyuwangi,LG-OLED55,TV LG OLED55CX,Electronics and Gadget,1
+524,7/2/2022,CTR0200431,43,Perempuan,Bogor,556677889,Face Mask PQR,Cosmetics,2
+525,7/2/2022,CTR0200422,24,Perempuan,Depok,242526286,Whitening Cream RST,Cosmetics,1
+526,7/2/2022,CTR0200474,40,Perempuan,Jember,556677889,Face Mask PQR,Cosmetics,1
+527,7/2/2022,CTR0200530,49,Laki-laki,Lampung,KIT-ARTIS,Mixer Kitchenaid Artisan,Electronics and Gadget,1
+528,7/2/2022,CTR0200466,47,Perempuan,Manado,123456789,Facial Cleanser XYZ,Cosmetics,2
+529,7/2/2022,CTR0200411,18,Perempuan,Mataram,778899001,Shampoo VWX,Hair Treatment,2
+530,7/2/2022,CTR0200462,27,Perempuan,Medan,121314151,Hand Cream HIJ,Body Treatment,1
+531,7/2/2022,CTR0200413,60,Perempuan,Padang,112233445,Lip Balm DEF,Cosmetics,1
+532,7/2/2022,CTR0200510,44,Laki-laki,Surabaya,OXO-SET,Set Peralatan Dapur OXO,Kitchen Appliances,3
+533,7/2/2022,CTR0200451,50,Perempuan,Semarang,223344556,Sunscreen GHI,Body Treatment,5
+534,7/2/2022,CTR0200453,47,Perempuan,Pekanbaru,334455667,Body Lotion JKL,Body Treatment,1
+535,7/2/2022,CTR0200584,25,Perempuan,Surabaya,232425275,Perfume OPQ,Cosmetics,1
+536,7/2/2022,CTR0200548,36,Perempuan,Samarinda,667788990,Toner STU,Cosmetics,1
+537,7/3/2022,CTR0200506,35,Perempuan,Balikpapan,171819202,Lipstick WXY,Cosmetics,1
+538,7/3/2022,CTR0200440,42,Perempuan,Bangka Belitung,131415161,Face Oil KLM,Cosmetics,1
+539,7/3/2022,CTR0200450,42,Laki-laki,Banyuwangi,SAM-S21,Ponsel Samsung Galaxy S21,Electronics and Gadget,1
+540,7/3/2022,CTR0200431,43,Perempuan,Bogor,192021232,Hair Mask CDE,Hair Treatment,1
+541,7/3/2022,CTR0200422,24,Perempuan,Depok,121314151,Hand Cream HIJ,Body Treatment,1
+542,7/3/2022,CTR0200474,40,Perempuan,Jember,161718191,Makeup Remover TUV,Cosmetics,1
+543,7/3/2022,CTR0200530,49,Laki-laki,Lampung,TEF-ING5,Set Peralatan Dapur Tefal Ingenio,Home Appliances,1
+544,7/3/2022,CTR0200476,55,Perempuan,Manado,123456789,Facial Cleanser XYZ,Cosmetics,5
+545,7/3/2022,CTR0200411,18,Perempuan,Mataram,242526286,Whitening Cream RST,Cosmetics,1
+546,7/3/2022,CTR0200462,27,Perempuan,Medan,667788990,Toner STU,Cosmetics,5
+547,7/3/2022,CTR0200413,60,Perempuan,Padang,171819202,Lipstick WXY,Cosmetics,1
+548,7/3/2022,CTR0200510,44,Laki-laki,Surabaya,FOS-GEN5,Jam Tangan Fossil Gen 5,Convinience Goods,1
+549,7/3/2022,CTR0200451,50,Perempuan,Semarang,123456789,Facial Cleanser XYZ,Cosmetics,1
+550,7/3/2022,CTR0200453,47,Perempuan,Pekanbaru,778899001,Shampoo VWX,Hair Treatment,1
+551,7/3/2022,CTR0200584,25,Perempuan,Surabaya,232425275,Perfume OPQ,Cosmetics,1
+552,7/3/2022,CTR0200548,36,Perempuan,Samarinda,889900112,Conditioner YZA,Hair Treatment,2
+553,7/4/2022,CTR0200506,35,Perempuan,Balikpapan,990011223,Eye Cream BCD,Cosmetics,1
+554,7/4/2022,CTR0200440,42,Perempuan,Bangka Belitung,161718191,Makeup Remover TUV,Cosmetics,1
+555,7/4/2022,CTR0200450,42,Laki-laki,Banyuwangi,SHA-A8,Mesin Cuci Sharp Aqua,Electronics and Gadget,2
+556,7/4/2022,CTR0200455,49,Perempuan,Bogor,667788990,Toner STU,Cosmetics,1
+557,7/4/2022,CTR0200422,24,Perempuan,Depok,232425275,Perfume OPQ,Cosmetics,1
+558,7/4/2022,CTR0200474,40,Perempuan,Jember,990011223,Eye Cream BCD,Cosmetics,1
+559,7/4/2022,CTR0200430,48,Perempuan,Makassar,889900112,Conditioner YZA,Hair Treatment,2
+560,7/4/2022,CTR0200476,55,Perempuan,Manado,987654321,Moisturizer ABC,Cosmetics,1
+561,7/4/2022,CTR0200411,18,Perempuan,Mataram,123456789,Facial Cleanser XYZ,Cosmetics,1
+562,7/4/2022,CTR0200462,27,Perempuan,Medan,171819202,Lipstick WXY,Cosmetics,3
+563,7/4/2022,CTR0200413,60,Perempuan,Padang,101112131,Body Scrub EFG,Body Treatment,1
+564,7/4/2022,CTR0200510,44,Laki-laki,Surabaya,SAM-FRAME55,TV Samsung The Frame,Electronics and Gadget,1
+565,7/4/2022,CTR0200451,50,Perempuan,Semarang,121314151,Hand Cream HIJ,Body Treatment,1
+566,7/4/2022,CTR0200453,47,Perempuan,Pekanbaru,334455667,Body Lotion JKL,Body Treatment,1
+567,7/4/2022,CTR0200414,27,Perempuan,Yogyakarta,232425275,Perfume OPQ,Cosmetics,2
+568,7/4/2022,CTR0200548,36,Perempuan,Samarinda,556677889,Face Mask PQR,Cosmetics,1
+569,7/5/2022,CTR0200506,35,Perempuan,Balikpapan,141516171,Foot Cream NOP,Body Treatment,1
+570,7/5/2022,CTR0200440,42,Perempuan,Bangka Belitung,232425275,Perfume OPQ,Cosmetics,1
+571,7/5/2022,CTR0200450,42,Laki-laki,Banyuwangi,RB-WAY,Kacamata Hitam Ray-Ban Wayfarer,Fashion,1
+572,7/5/2022,CTR0200455,49,Perempuan,Bogor,556677889,Face Mask PQR,Cosmetics,1
+573,7/5/2022,CTR0200422,24,Perempuan,Depok,192021232,Hair Mask CDE,Hair Treatment,3
+574,7/5/2022,CTR0200474,40,Perempuan,Jember,131415161,Face Oil KLM,Cosmetics,1
+575,7/5/2022,CTR0200430,48,Perempuan,Makassar,181920212,Blush ZAB,Cosmetics,1
+576,7/5/2022,CTR0200476,55,Perempuan,Manado,202122242,Deodorant FGH,Cosmetics,1
+577,7/5/2022,CTR0200490,36,Perempuan,Mataram,202122242,Deodorant FGH,Cosmetics,1
+578,7/5/2022,CTR0200462,27,Perempuan,Medan,889900112,Conditioner YZA,Hair Treatment,1
+579,7/5/2022,CTR0200413,60,Perempuan,Padang,181920212,Blush ZAB,Cosmetics,1
+580,7/5/2022,CTR0200510,44,Laki-laki,Surabaya,LG-OLED55,TV LG OLED55CX,Electronics and Gadget,1
+581,7/5/2022,CTR0200459,25,Laki-laki,Semarang,CON-CT41,Sepatu Casual Converse Chuck Taylor,Fashion,2
+582,7/5/2022,CTR0200453,47,Perempuan,Pekanbaru,445566778,Hair Serum MNO,Hair Treatment,5
+583,7/5/2022,CTR0200414,27,Perempuan,Yogyakarta,334455667,Body Lotion JKL,Body Treatment,3
+584,7/5/2022,CTR0200548,36,Perempuan,Samarinda,181920212,Blush ZAB,Cosmetics,1
+585,7/6/2022,CTR0200516,56,Laki-laki,Balikpapan,VIV-V21,Smartphone Vivo V21,Electronics and Gadget,1
+586,7/6/2022,CTR0200440,42,Perempuan,Bangka Belitung,334455667,Body Lotion JKL,Body Treatment,1
+587,7/6/2022,CTR0200450,42,Laki-laki,Banyuwangi,JAM-COOK,Buku Panduan Memasak Jamie Oliver,Books,1
+588,7/6/2022,CTR0200455,49,Perempuan,Bogor,242526286,Whitening Cream RST,Cosmetics,1
+589,7/6/2022,CTR0200426,37,Laki-laki,Depok,IKE-MF,Bantal Memory Foam IKEA,Electronics and Gadget,1
+590,7/6/2022,CTR0200474,40,Perempuan,Jember,161718191,Makeup Remover TUV,Cosmetics,1
+591,7/6/2022,CTR0200430,48,Perempuan,Makassar,123456789,Facial Cleanser XYZ,Cosmetics,1
+592,7/6/2022,CTR0200476,55,Perempuan,Manado,151617181,Face Serum QRS,Cosmetics,1
+593,7/6/2022,CTR0200490,36,Perempuan,Mataram,990011223,Eye Cream BCD,Cosmetics,2
+594,7/6/2022,CTR0200462,27,Perempuan,Medan,151617181,Face Serum QRS,Cosmetics,1
+595,7/6/2022,CTR0200413,60,Perempuan,Padang,123456789,Facial Cleanser XYZ,Cosmetics,1
+596,7/6/2022,CTR0200510,44,Laki-laki,Surabaya,TNF-NUP,Jaket The North Face Nuptse,Fashion,1
+597,7/6/2022,CTR0200459,25,Laki-laki,Semarang,IKE-KALLAX,Rak Buku IKEA Kallax,Home Appliances,1
+598,7/6/2022,CTR0200418,45,Laki-laki,Tangerang,NES-PIX,Mesin Kopi Nespresso Pixie,Electronics and Gadget,1
+599,7/6/2022,CTR0200414,27,Perempuan,Yogyakarta,141516171,Foot Cream NOP,Body Treatment,1
+600,7/6/2022,CTR0200548,36,Perempuan,Samarinda,334455667,Body Lotion JKL,Body Treatment,1
+601,7/7/2022,CTR0200516,56,Laki-laki,Balikpapan,TEF-8PC,Set Peralatan Masak Tefal,Kitchen Appliances,1
+602,7/7/2022,CTR0200441,46,Perempuan,Bangka Belitung,223344556,Sunscreen GHI,Body Treatment,1
+603,7/7/2022,CTR0200450,42,Laki-laki,Banyuwangi,EIG-TR30,Tas Ransel Eiger Track 30L,Equipments,1
+604,7/7/2022,CTR0200455,49,Perempuan,Bogor,667788990,Toner STU,Cosmetics,1
+605,7/7/2022,CTR0200426,37,Laki-laki,Depok,CAN-EOS-M50,Kamera Canon EOS M50,Electronics and Gadget,2
+606,7/7/2022,CTR0200474,40,Perempuan,Jember,212223253,Nail Polish IJK,Cosmetics,1
+607,7/7/2022,CTR0200430,48,Perempuan,Makassar,192021232,Hair Mask CDE,Hair Treatment,1
+608,7/7/2022,CTR0200476,55,Perempuan,Manado,242526286,Whitening Cream RST,Cosmetics,1
+609,7/7/2022,CTR0200490,36,Perempuan,Mataram,123456789,Facial Cleanser XYZ,Cosmetics,1
+610,7/7/2022,CTR0200462,27,Perempuan,Medan,171819202,Lipstick WXY,Cosmetics,3
+611,7/7/2022,CTR0200413,60,Perempuan,Padang,990011223,Eye Cream BCD,Cosmetics,4
+612,7/7/2022,CTR0200550,37,Perempuan,Surabaya,667788990,Toner STU,Cosmetics,1
+613,7/7/2022,CTR0200459,25,Laki-laki,Semarang,SAM-Q60T,Televisi Samsung Q60,Electronics and Gadget,1
+614,7/7/2022,CTR0200418,45,Laki-laki,Tangerang,LOG-K380,Keyboard Logitech K380,Computer,3
+615,7/7/2022,CTR0200414,27,Perempuan,Yogyakarta,192021232,Hair Mask CDE,Hair Treatment,4
+616,7/7/2022,CTR0200548,36,Perempuan,Samarinda,232425275,Perfume OPQ,Cosmetics,1
+617,7/8/2022,CTR0200516,56,Laki-laki,Balikpapan,EIG-D2,Tenda Camping Eiger Dome 2,Equipments,1
+618,7/8/2022,CTR0200441,46,Perempuan,Bangka Belitung,889900112,Conditioner YZA,Hair Treatment,1
+619,7/8/2022,CTR0200450,42,Laki-laki,Banyuwangi,DYS-PCOOL,Kipas Angin Dyson Pure Cool,Electronics and Gadget,3
+620,7/8/2022,CTR0200468,50,Perempuan,Bogor,171819202,Lipstick WXY,Cosmetics,1
+621,7/8/2022,CTR0200426,37,Laki-laki,Depok,VIV-V21,Smartphone Vivo V21,Electronics and Gadget,1
+622,7/8/2022,CTR0200474,40,Perempuan,Jember,334455667,Body Lotion JKL,Body Treatment,2
+623,7/8/2022,CTR0200436,42,Laki-laki,Makassar,SHA-SJ185,Kulkas Sharp 2 Pintu SJ-X185,Electronics and Gadget,1
+624,7/8/2022,CTR0200476,55,Perempuan,Manado,242526286,Whitening Cream RST,Cosmetics,3
+625,7/8/2022,CTR0200490,36,Perempuan,Mataram,121314151,Hand Cream HIJ,Body Treatment,1
+626,7/8/2022,CTR0200462,27,Perempuan,Medan,987654321,Moisturizer ABC,Cosmetics,1
+627,7/8/2022,CTR0200413,60,Perempuan,Padang,161718191,Makeup Remover TUV,Cosmetics,1
+628,7/8/2022,CTR0200550,37,Perempuan,Surabaya,192021232,Hair Mask CDE,Hair Treatment,3
+629,7/8/2022,CTR0200472,19,Perempuan,Semarang,223344556,Sunscreen GHI,Body Treatment,1
+630,7/8/2022,CTR0200418,45,Laki-laki,Tangerang,JBL-FLIP5,Speaker JBL Flip 5,Electronics and Gadget,1
+631,7/8/2022,CTR0200414,27,Perempuan,Yogyakarta,667788990,Toner STU,Cosmetics,2
+632,7/8/2022,CTR0200548,36,Perempuan,Samarinda,192021232,Hair Mask CDE,Hair Treatment,7
+633,7/9/2022,CTR0200520,49,Laki-laki,Balikpapan,MIY-BL102,Blender Miyako BL-102,Electronics and Gadget,1
+634,7/9/2022,CTR0200441,46,Perempuan,Bangka Belitung,141516171,Foot Cream NOP,Body Treatment,1
+635,7/9/2022,CTR0200559,39,Laki-laki,Banyuwangi,SAN-2P180,Kulkas Sanyo 2 Pintu,Electronics and Gadget,1
+636,7/9/2022,CTR0200468,50,Perempuan,Bogor,131415161,Face Oil KLM,Cosmetics,1
+637,7/9/2022,CTR0200426,37,Laki-laki,Depok,LEN-Y7I,Laptop Lenovo Yoga 7i,Computer,1
+638,7/9/2022,CTR0200560,44,Perempuan,Jember,990011223,Eye Cream BCD,Cosmetics,2
+639,7/9/2022,CTR0200436,42,Laki-laki,Makassar,JBL-CHARGE4,Speaker Bluetooth JBL Charge 4,Electronics and Gadget,1
+640,7/9/2022,CTR0200476,55,Perempuan,Manado,171819202,Lipstick WXY,Cosmetics,1
+641,7/9/2022,CTR0200490,36,Perempuan,Mataram,101112131,Body Scrub EFG,Body Treatment,1
+642,7/9/2022,CTR0200462,27,Perempuan,Medan,778899001,Shampoo VWX,Hair Treatment,1
+643,7/9/2022,CTR0200413,60,Perempuan,Padang,223344556,Sunscreen GHI,Body Treatment,1
+644,7/9/2022,CTR0200580,41,Laki-laki,Surabaya,FOS-GEN5,Jam Tangan Fossil Gen 5,Convinience Goods,2
+645,7/9/2022,CTR0200472,19,Perempuan,Semarang,778899001,Shampoo VWX,Hair Treatment,1
+646,7/9/2022,CTR0200418,45,Laki-laki,Tangerang,IKE-KUNG,Papan Setrika IKEA Kungsfors,Home Appliances,2
+647,7/9/2022,CTR0200414,27,Perempuan,Yogyakarta,242526286,Whitening Cream RST,Cosmetics,1
+648,7/9/2022,CTR0200548,36,Perempuan,Samarinda,232425275,Perfume OPQ,Cosmetics,7
+649,7/10/2022,CTR0200520,49,Laki-laki,Balikpapan,SAM-FL8,Mesin Cuci Samsung Front Load,Electronics and Gadget,1
+650,7/10/2022,CTR0200441,46,Perempuan,Bangka Belitung,123456789,Facial Cleanser XYZ,Cosmetics,1
+651,7/10/2022,CTR0200559,39,Laki-laki,Banyuwangi,IKE-BESTA,Rak TV IKEA Besta,Home Appliances,1
+652,7/10/2022,CTR0200468,50,Perempuan,Bogor,987654321,Moisturizer ABC,Cosmetics,2
+653,7/10/2022,CTR0200532,49,Perempuan,Depok,242526286,Whitening Cream RST,Cosmetics,1
+654,7/10/2022,CTR0200560,44,Perempuan,Jember,131415161,Face Oil KLM,Cosmetics,1
+655,7/10/2022,CTR0200436,42,Laki-laki,Makassar,JBL-CHARGE4,Speaker Bluetooth JBL Charge 4,Electronics and Gadget,1
+656,7/10/2022,CTR0200476,55,Perempuan,Manado,334455667,Body Lotion JKL,Body Treatment,2
+657,7/10/2022,CTR0200490,36,Perempuan,Mataram,242526286,Whitening Cream RST,Cosmetics,1
+658,7/10/2022,CTR0200462,27,Perempuan,Medan,192021232,Hair Mask CDE,Hair Treatment,1
+659,7/10/2022,CTR0200413,60,Perempuan,Padang,990011223,Eye Cream BCD,Cosmetics,1
+660,7/10/2022,CTR0200580,41,Laki-laki,Surabaya,ADI-GYM,Tas Gym Adidas,Sport,5
+661,7/10/2022,CTR0200472,19,Perempuan,Semarang,232425275,Perfume OPQ,Cosmetics,4
+662,7/10/2022,CTR0200418,45,Laki-laki,Tangerang,CON-CT41,Sepatu Casual Converse Chuck Taylor,Fashion,1
+663,7/10/2022,CTR0200414,27,Perempuan,Yogyakarta,222324264,Acne Gel LMN,Cosmetics,2
+664,7/10/2022,CTR0200548,36,Perempuan,Samarinda,223344556,Sunscreen GHI,Body Treatment,2
+665,7/11/2022,CTR0200520,49,Laki-laki,Balikpapan, IKE-LER,Meja Makan IKEA LERHAMN,Kitchen Appliances,2
+666,7/11/2022,CTR0200445,36,Perempuan,Bangka Belitung,556677889,Face Mask PQR,Cosmetics,1
+667,7/11/2022,CTR0200559,39,Laki-laki,Banyuwangi,NIK-AM270,Sepatu Nike Air Max 270,Fashion,1
+668,7/11/2022,CTR0200501,30,Laki-laki,Bogor,RIN-RI511,Kompor Gas Rinnai RI-511,Kitchen Appliances,3
+669,7/11/2022,CTR0200532,49,Perempuan,Depok,151617181,Face Serum QRS,Cosmetics,1
+670,7/11/2022,CTR0200560,44,Perempuan,Jember,171819202,Lipstick WXY,Cosmetics,1
+671,7/11/2022,CTR0200504,27,Perempuan,Makassar,889900112,Conditioner YZA,Hair Treatment,1
+672,7/11/2022,CTR0200494,40,Laki-laki,Manado,MK-BRAD,Jam Tangan Michael Kors Bradshaw,Convinience Goods,1
+673,7/11/2022,CTR0200490,36,Perempuan,Mataram,202122242,Deodorant FGH,Cosmetics,1
+674,7/11/2022,CTR0200462,27,Perempuan,Medan,232425275,Perfume OPQ,Cosmetics,1
+675,7/11/2022,CTR0200413,60,Perempuan,Padang,181920212,Blush ZAB,Cosmetics,3
+676,7/11/2022,CTR0200580,41,Laki-laki,Surabaya,BOS-QC35,Headphone Bose QuietComfort 35,Electronics and Gadget,3
+677,7/11/2022,CTR0200472,19,Perempuan,Semarang,667788990,Toner STU,Cosmetics,2
+678,7/11/2022,CTR0200418,45,Laki-laki,Tangerang,DYS-PCOOL,Kipas Angin Dyson Pure Cool,Electronics and Gadget,1
+679,7/11/2022,CTR0200484,56,Laki-laki,Yogyakarta,REL-8PRO,Smartphone Realme 8 Pro,Electronics and Gadget,1
+680,7/11/2022,CTR0200577,37,Perempuan,Samarinda,778899001,Shampoo VWX,Hair Treatment,1
+681,7/12/2022,CTR0200526,46,Laki-laki,Balikpapan,AC-PH300,Laptop Acer Predator Helios 300,Computer,1
+682,7/12/2022,CTR0200445,36,Perempuan,Bangka Belitung,556677889,Face Mask PQR,Cosmetics,4
+683,7/12/2022,CTR0200559,39,Laki-laki,Banyuwangi,DEL-INS,Komputer Desktop Dell Inspiron,Computer,1
+684,7/12/2022,CTR0200501,30,Laki-laki,Bogor, IKE-LER,Meja Makan IKEA LERHAMN,Kitchen Appliances,1
+685,7/12/2022,CTR0200532,49,Perempuan,Depok,161718191,Makeup Remover TUV,Cosmetics,1
+686,7/12/2022,CTR0200560,44,Perempuan,Jember,161718191,Makeup Remover TUV,Cosmetics,2
+687,7/12/2022,CTR0200505,44,Perempuan,Makassar,141516171,Foot Cream NOP,Body Treatment,1
+688,7/12/2022,CTR0200494,40,Laki-laki,Manado,SAM-S21,Ponsel Samsung Galaxy S21,Electronics and Gadget,1
+689,7/12/2022,CTR0200490,36,Perempuan,Mataram,778899001,Shampoo VWX,Hair Treatment,1
+690,7/12/2022,CTR0200463,47,Perempuan,Medan,223344556,Sunscreen GHI,Body Treatment,2
+691,7/12/2022,CTR0200413,60,Perempuan,Padang,778899001,Shampoo VWX,Hair Treatment,2
+692,7/12/2022,CTR0200580,41,Laki-laki,Surabaya,GO-PRO9,Kamera GoPro HERO9 Black,Electronics and Gadget,3
+693,7/12/2022,CTR0200472,19,Perempuan,Semarang,232425275,Perfume OPQ,Cosmetics,2
+694,7/12/2022,CTR0200418,45,Laki-laki,Tangerang,LOG-G502,Papan Mouse Logitech G502,Computer,1
+695,7/12/2022,CTR0200484,56,Laki-laki,Yogyakarta,OP-9,Smartphone OnePlus 9,Electronics and Gadget,2
+696,7/12/2022,CTR0200577,37,Perempuan,Samarinda,223344556,Sunscreen GHI,Body Treatment,1
+697,7/13/2022,CTR0200526,46,Laki-laki,Balikpapan,HP-PV15,Laptop HP Pavilion 15,Computer,2
+698,7/13/2022,CTR0200445,36,Perempuan,Bangka Belitung,987654321,Moisturizer ABC,Cosmetics,2
+699,7/13/2022,CTR0200559,39,Laki-laki,Banyuwangi,MK-BRAD,Jam Tangan Michael Kors Bradshaw,Convinience Goods,1
+700,7/13/2022,CTR0200501,30,Laki-laki,Bogor,CON-CT41,Sepatu Casual Converse Chuck Taylor,Fashion,1
+701,7/13/2022,CTR0200532,49,Perempuan,Depok,202122242,Deodorant FGH,Cosmetics,2
+702,7/13/2022,CTR0200560,44,Perempuan,Jember,223344556,Sunscreen GHI,Body Treatment,2
+703,7/13/2022,CTR0200505,44,Perempuan,Makassar,778899001,Shampoo VWX,Hair Treatment,1
+704,7/13/2022,CTR0200494,40,Laki-laki,Manado,CAS-GSHOCK,Jam Tangan Casio G-Shock,Convinience Goods,3
+705,7/13/2022,CTR0200490,36,Perempuan,Mataram,223344556,Sunscreen GHI,Body Treatment,1
+706,7/13/2022,CTR0200463,47,Perempuan,Medan,181920212,Blush ZAB,Cosmetics,1
+707,7/13/2022,CTR0200549,37,Laki-laki,Padang,SHA-A8,Mesin Cuci Sharp Aqua,Electronics and Gadget,2
+708,7/13/2022,CTR0200580,41,Laki-laki,Surabaya,POL-X5,Sepeda Polygon Xtrada 5,Sport,5
+709,7/13/2022,CTR0200472,19,Perempuan,Semarang,192021232,Hair Mask CDE,Hair Treatment,4
+710,7/13/2022,CTR0200425,49,Perempuan,Tangerang,334455667,Body Lotion JKL,Body Treatment,2
+711,7/13/2022,CTR0200484,56,Laki-laki,Yogyakarta,EIG-TR30,Tas Ransel Eiger Track 30L,Equipments,1
+712,7/13/2022,CTR0200577,37,Perempuan,Samarinda,141516171,Foot Cream NOP,Body Treatment,2
+713,7/14/2022,CTR0200526,46,Laki-laki,Balikpapan,HP-PV15,Laptop HP Pavilion 15,Computer,1
+714,7/14/2022,CTR0200445,36,Perempuan,Bangka Belitung,171819202,Lipstick WXY,Cosmetics,1
+715,7/14/2022,CTR0200559,39,Laki-laki,Banyuwangi,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,5
+716,7/14/2022,CTR0200501,30,Laki-laki,Bogor,LG-TWIN,Mesin Cuci LG TWINWash,Electronics and Gadget,1
+717,7/14/2022,CTR0200532,49,Perempuan,Depok,556677889,Face Mask PQR,Cosmetics,1
+718,7/14/2022,CTR0200560,44,Perempuan,Jember,987654321,Moisturizer ABC,Cosmetics,1
+719,7/14/2022,CTR0200505,44,Perempuan,Makassar,181920212,Blush ZAB,Cosmetics,1
+720,7/14/2022,CTR0200499,30,Perempuan,Manado,212223253,Nail Polish IJK,Cosmetics,1
+721,7/14/2022,CTR0200490,36,Perempuan,Mataram,222324264,Acne Gel LMN,Cosmetics,1
+722,7/14/2022,CTR0200463,47,Perempuan,Medan,181920212,Blush ZAB,Cosmetics,10
+723,7/14/2022,CTR0200549,37,Laki-laki,Padang,QQ-DIG,Jam Dinding Q&Q,Furniture,1
+724,7/14/2022,CTR0200580,41,Laki-laki,Surabaya,LEN-Y7I,Laptop Lenovo Yoga 7i,Computer,4
+725,7/14/2022,CTR0200472,19,Perempuan,Semarang,131415161,Face Oil KLM,Cosmetics,4
+726,7/14/2022,CTR0200425,49,Perempuan,Tangerang,123456789,Facial Cleanser XYZ,Cosmetics,1
+727,7/14/2022,CTR0200484,56,Laki-laki,Yogyakarta,LEN-Y7I,Laptop Lenovo Yoga 7i,Computer,1
+728,7/14/2022,CTR0200577,37,Perempuan,Samarinda,212223253,Nail Polish IJK,Cosmetics,1
+729,7/15/2022,CTR0200527,50,Laki-laki,Balikpapan,APP-W6,Smartwatch Apple Watch Series 6,Electronics and Gadget,1
+730,7/15/2022,CTR0200540,48,Laki-laki,Bangka Belitung,LEN-Y7I,Laptop Lenovo Yoga 7i,Computer,1
+731,7/15/2022,CTR0200559,39,Laki-laki,Banyuwangi,CAN-EOS-M50,Kamera Canon EOS M50,Electronics and Gadget,1
+732,7/15/2022,CTR0200519,48,Perempuan,Bogor,212223253,Nail Polish IJK,Cosmetics,1
+733,7/15/2022,CTR0200532,49,Perempuan,Depok,990011223,Eye Cream BCD,Cosmetics,1
+734,7/15/2022,CTR0200560,44,Perempuan,Jember,556677889,Face Mask PQR,Cosmetics,1
+735,7/15/2022,CTR0200505,44,Perempuan,Makassar,131415161,Face Oil KLM,Cosmetics,2
+736,7/15/2022,CTR0200499,30,Perempuan,Manado,222324264,Acne Gel LMN,Cosmetics,1
+737,7/15/2022,CTR0200490,36,Perempuan,Mataram,161718191,Makeup Remover TUV,Cosmetics,1
+738,7/15/2022,CTR0200463,47,Perempuan,Medan,151617181,Face Serum QRS,Cosmetics,2
+739,7/15/2022,CTR0200549,37,Laki-laki,Padang,ADI-UB21,Sepatu Adidas Ultraboost 21,Fashion,2
+740,7/15/2022,CTR0200580,41,Laki-laki,Surabaya,IKE-BEK,Meja Kerja IKEA Bekant,Home Appliances,3
+741,7/15/2022,CTR0200472,19,Perempuan,Semarang,990011223,Eye Cream BCD,Cosmetics,2
+742,7/15/2022,CTR0200425,49,Perempuan,Tangerang,889900112,Conditioner YZA,Hair Treatment,2
+743,7/15/2022,CTR0200493,52,Perempuan,Yogyakarta,141516171,Foot Cream NOP,Body Treatment,1
+744,7/15/2022,CTR0200577,37,Perempuan,Samarinda,123456789,Facial Cleanser XYZ,Cosmetics,1
+745,7/16/2022,CTR0200527,50,Laki-laki,Balikpapan,LAN-WB,Masker Wajah Laneige Water Bank,Cosmetics,1
+746,7/16/2022,CTR0200540,48,Laki-laki,Bangka Belitung,MK-BRAD,Jam Tangan Michael Kors Bradshaw,Convinience Goods,1
+747,7/16/2022,CTR0200559,39,Laki-laki,Banyuwangi,LG-TWIN,Mesin Cuci LG TWINWash,Electronics and Gadget,1
+748,7/16/2022,CTR0200519,48,Perempuan,Bogor,161718191,Makeup Remover TUV,Cosmetics,1
+749,7/16/2022,CTR0200422,24,Perempuan,Depok,141516171,Foot Cream NOP,Body Treatment,2
+750,7/16/2022,CTR0200560,44,Perempuan,Jember,212223253,Nail Polish IJK,Cosmetics,1
+751,7/16/2022,CTR0200505,44,Perempuan,Makassar,778899001,Shampoo VWX,Hair Treatment,2
+752,7/16/2022,CTR0200499,30,Perempuan,Manado,101112131,Body Scrub EFG,Body Treatment,1
+753,7/16/2022,CTR0200490,36,Perempuan,Mataram,192021232,Hair Mask CDE,Hair Treatment,1
+754,7/16/2022,CTR0200469,40,Perempuan,Medan,889900112,Conditioner YZA,Hair Treatment,1
+755,7/16/2022,CTR0200549,37,Laki-laki,Padang,JATI-MEJA,Meja Makan Kayu Jati,Kitchen Appliances,3
+756,7/16/2022,CTR0200584,25,Perempuan,Surabaya,151617181,Face Serum QRS,Cosmetics,1
+757,7/16/2022,CTR0200472,19,Perempuan,Semarang,778899001,Shampoo VWX,Hair Treatment,1
+758,7/16/2022,CTR0200425,49,Perempuan,Tangerang,101112131,Body Scrub EFG,Body Treatment,3
+759,7/16/2022,CTR0200493,52,Perempuan,Yogyakarta,222324264,Acne Gel LMN,Cosmetics,1
+760,7/16/2022,CTR0200454,39,Perempuan,Solo,990011223,Eye Cream BCD,Cosmetics,1
+761,7/17/2022,CTR0200527,50,Laki-laki,Balikpapan,IKE-SKUBB,Rak Sepatu IKEA SKUBB,Home Appliances,2
+762,7/17/2022,CTR0200540,48,Laki-laki,Bangka Belitung,FOS-GEN5,Jam Tangan Fossil Gen 5,Convinience Goods,1
+763,7/17/2022,CTR0200559,39,Laki-laki,Banyuwangi,PHI-PRO,Vacuum Cleaner Philips PowerPro,Electronics and Gadget,1
+764,7/17/2022,CTR0200519,48,Perempuan,Bogor,212223253,Nail Polish IJK,Cosmetics,2
+765,7/17/2022,CTR0200422,24,Perempuan,Depok,202122242,Deodorant FGH,Cosmetics,1
+766,7/17/2022,CTR0200560,44,Perempuan,Jember,445566778,Hair Serum MNO,Hair Treatment,1
+767,7/17/2022,CTR0200505,44,Perempuan,Makassar,121314151,Hand Cream HIJ,Body Treatment,4
+768,7/17/2022,CTR0200499,30,Perempuan,Manado,212223253,Nail Polish IJK,Cosmetics,2
+769,7/17/2022,CTR0200491,45,Perempuan,Mataram,121314151,Hand Cream HIJ,Body Treatment,1
+770,7/17/2022,CTR0200469,40,Perempuan,Medan,181920212,Blush ZAB,Cosmetics,1
+771,7/17/2022,CTR0200549,37,Laki-laki,Padang,SON-A7III,Kamera Sony Alpha A7 III,Electronics and Gadget,1
+772,7/17/2022,CTR0200584,25,Perempuan,Surabaya,990011223,Eye Cream BCD,Cosmetics,1
+773,7/17/2022,CTR0200489,48,Laki-laki,Semarang,IKE-PAX,Lemari Pakaian IKEA PAX,Home Appliances,1
+774,7/17/2022,CTR0200434,41,Laki-laki,Tangerang,DEL-XPS13,Laptop Dell XPS 13,Computer,1
+775,7/17/2022,CTR0200493,52,Perempuan,Yogyakarta,131415161,Face Oil KLM,Cosmetics,1
+776,7/17/2022,CTR0200454,39,Perempuan,Solo,223344556,Sunscreen GHI,Body Treatment,1
+777,7/18/2022,CTR0200544,45,Laki-laki,Balikpapan,SAM-S21,Ponsel Samsung Galaxy S21,Electronics and Gadget,1
+778,7/18/2022,CTR0200540,48,Laki-laki,Bangka Belitung,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,1
+779,7/18/2022,CTR0200559,39,Laki-laki,Banyuwangi,RIN-RI511,Kompor Gas Rinnai RI-511,Kitchen Appliances,1
+780,7/18/2022,CTR0200519,48,Perempuan,Bogor,192021232,Hair Mask CDE,Hair Treatment,2
+781,7/18/2022,CTR0200419,49,Perempuan,Jakarta,181920212,Blush ZAB,Cosmetics,1
+782,7/18/2022,CTR0200560,44,Perempuan,Jember,990011223,Eye Cream BCD,Cosmetics,1
+783,7/18/2022,CTR0200536,51,Perempuan,Makassar,192021232,Hair Mask CDE,Hair Treatment,1
+784,7/18/2022,CTR0200499,30,Perempuan,Manado,232425275,Perfume OPQ,Cosmetics,2
+785,7/18/2022,CTR0200491,45,Perempuan,Mataram,121314151,Hand Cream HIJ,E,1
+786,7/18/2022,CTR0200469,40,Perempuan,Medan,990011223,Eye Cream BCD,Cosmetics,1
+787,7/18/2022,CTR0200549,37,Laki-laki,Padang,IKE-KUNG,Papan Setrika IKEA Kungsfors,Home Appliances,1
+788,7/18/2022,CTR0200584,25,Perempuan,Surabaya,212223253,Nail Polish IJK,Cosmetics,1
+789,7/18/2022,CTR0200489,48,Laki-laki,Semarang,BOS-QC35,Headphone Bose QuietComfort 35,Electronics and Gadget,1
+790,7/18/2022,CTR0200434,41,Laki-laki,Tangerang,SON-WH1000,Headphone Sony WH-1000XM4,Electronics and Gadget,1
+791,7/18/2022,CTR0200493,52,Perempuan,Yogyakarta,556677889,Face Mask PQR,Cosmetics,2
+792,7/18/2022,CTR0200454,39,Perempuan,Solo,181920212,Blush ZAB,Cosmetics,1
+793,7/19/2022,CTR0200544,45,Laki-laki,Balikpapan,NIK-AM270,Sepatu Nike Air Max 270,Fashion,1
+794,7/19/2022,CTR0200575,35,Laki-laki,Bangka Belitung,POL-X5,Sepeda Polygon Xtrada 5,Sport,1
+795,7/19/2022,CTR0200559,39,Laki-laki,Banyuwangi,EIG-D2,Tenda Camping Eiger Dome 2,Equipments,1
+796,7/19/2022,CTR0200519,48,Perempuan,Bogor,141516171,Foot Cream NOP,Body Treatment,1
+797,7/19/2022,CTR0200419,49,Perempuan,Jakarta,141516171,Foot Cream NOP,Body Treatment,1
+798,7/19/2022,CTR0200560,44,Perempuan,Jember,232425275,Perfume OPQ,Cosmetics,1
+799,7/19/2022,CTR0200536,51,Perempuan,Makassar,181920212,Blush ZAB,Cosmetics,1
+800,7/19/2022,CTR0200499,30,Perempuan,Manado,334455667,Body Lotion JKL,Body Treatment,1
+801,7/19/2022,CTR0200491,45,Perempuan,Mataram,223344556,Sunscreen GHI,Body Treatment,2
+802,7/19/2022,CTR0200469,40,Perempuan,Medan,778899001,Shampoo VWX,Hair Treatment,1
+803,7/19/2022,CTR0200549,37,Laki-laki,Padang,QQ-DIG,Jam Dinding Q&Q,Furniture,1
+804,7/19/2022,CTR0200584,25,Perempuan,Surabaya,223344556,Sunscreen GHI,Body Treatment,1
+805,7/19/2022,CTR0200489,48,Laki-laki,Semarang,FOS-SEL,Tas Selempang Fossil,Equipments,1
+806,7/19/2022,CTR0200434,41,Laki-laki,Tangerang,TEF-ING5,Set Peralatan Dapur Tefal Ingenio,Home Appliances,1
+807,7/19/2022,CTR0200493,52,Perempuan,Yogyakarta,112233445,Lip Balm DEF,Cosmetics,2
+808,7/19/2022,CTR0200454,39,Perempuan,Solo,667788990,Toner STU,Cosmetics,2
+809,7/20/2022,CTR0200544,45,Laki-laki,Balikpapan,RIN-RI511,Kompor Gas Rinnai RI-511,Kitchen Appliances,1
+810,7/20/2022,CTR0200575,35,Laki-laki,Bangka Belitung,NIK-D3500,Kamera Nikon D3500,Electronics and Gadget,1
+811,7/20/2022,CTR0200559,39,Laki-laki,Banyuwangi,LG-TWIN,Mesin Cuci LG TWINWash,Electronics and Gadget,1
+812,7/20/2022,CTR0200519,48,Perempuan,Bogor,101112131,Body Scrub EFG,Body Treatment,2
+813,7/20/2022,CTR0200423,23,Perempuan,Jakarta,171819202,Lipstick WXY,Cosmetics,2
+814,7/20/2022,CTR0200560,44,Perempuan,Jember,123456789,Facial Cleanser XYZ,Cosmetics,2
+815,7/20/2022,CTR0200536,51,Perempuan,Makassar,223344556,Sunscreen GHI,Body Treatment,1
+816,7/20/2022,CTR0200499,30,Perempuan,Manado,131415161,Face Oil KLM,Cosmetics,1
+817,7/20/2022,CTR0200491,45,Perempuan,Mataram,223344556,Sunscreen GHI,Body Treatment,2
+818,7/20/2022,CTR0200469,40,Perempuan,Medan,131415161,Face Oil KLM,Cosmetics,2
+819,7/20/2022,CTR0200566,35,Perempuan,Padang,222324264,Acne Gel LMN,Cosmetics,1
+820,7/20/2022,CTR0200584,25,Perempuan,Surabaya,131415161,Face Oil KLM,Cosmetics,1
+821,7/20/2022,CTR0200524,47,Laki-laki,Semarang,CAS-GSHOCK,Jam Tangan Casio G-Shock,Convinience Goods,8
+822,7/20/2022,CTR0200434,41,Laki-laki,Tangerang, SAM-ROD24,Koper Roda Samsonite,Equipments,1
+823,7/20/2022,CTR0200493,52,Perempuan,Yogyakarta,202122242,Deodorant FGH,Cosmetics,1
+824,7/20/2022,CTR0200454,39,Perempuan,Solo,212223253,Nail Polish IJK,Cosmetics,1
+825,7/21/2022,CTR0200546,38,Perempuan,Balikpapan,161718191,Makeup Remover TUV,Cosmetics,2
+826,7/21/2022,CTR0200575,35,Laki-laki,Bangka Belitung,NIK-D3500,Kamera Nikon D3500,Electronics and Gadget,1
+827,7/21/2022,CTR0200559,39,Laki-laki,Banyuwangi,BOS-QC35,Headphone Bose QuietComfort 35,Electronics and Gadget,1
+828,7/21/2022,CTR0200449,43,Laki-laki,Cirebon,JBL-FLIP5,Speaker JBL Flip 5,Electronics and Gadget,4
+829,7/21/2022,CTR0200423,23,Perempuan,Jakarta,778899001,Shampoo VWX,Hair Treatment,1
+830,7/21/2022,CTR0200560,44,Perempuan,Jember,202122242,Deodorant FGH,Cosmetics,1
+831,7/21/2022,CTR0200536,51,Perempuan,Makassar,242526286,Whitening Cream RST,Cosmetics,2
+832,7/21/2022,CTR0200499,30,Perempuan,Manado,445566778,Hair Serum MNO,Hair Treatment,1
+833,7/21/2022,CTR0200491,45,Perempuan,Mataram,123456789,Facial Cleanser XYZ,Cosmetics,1
+834,7/21/2022,CTR0200469,40,Perempuan,Medan,171819202,Lipstick WXY,Cosmetics,1
+835,7/21/2022,CTR0200566,35,Perempuan,Padang,987654321,Moisturizer ABC,Cosmetics,1
+836,7/21/2022,CTR0200584,25,Perempuan,Surabaya,101112131,Body Scrub EFG,Body Treatment,1
+837,7/21/2022,CTR0200524,47,Laki-laki,Semarang,BOS-QC35,Headphone Bose QuietComfort 35,Electronics and Gadget,12
+838,7/21/2022,CTR0200434,41,Laki-laki,Tangerang,SON-RX100,Kamera Sony RX100 VII,Electronics and Gadget,1
+839,7/21/2022,CTR0200493,52,Perempuan,Yogyakarta,131415161,Face Oil KLM,Cosmetics,1
+840,7/21/2022,CTR0200454,39,Perempuan,Solo,445566778,Hair Serum MNO,Hair Treatment,2
+841,7/22/2022,CTR0200546,38,Perempuan,Balikpapan,161718191,Makeup Remover TUV,Cosmetics,1
+842,7/22/2022,CTR0200575,35,Laki-laki,Bangka Belitung,LG-DIND,Kulkas LG Door-in-Door,Electronics and Gadget,1
+843,7/22/2022,CTR0200559,39,Laki-laki,Banyuwangi, PHI-AF9650,Air Fryer Philips HD9650,Home Appliances,3
+844,7/22/2022,CTR0200449,43,Laki-laki,Cirebon,IKE-PAX,Lemari Pakaian IKEA PAX,Home Appliances,3
+845,7/22/2022,CTR0200423,23,Perempuan,Jakarta,334455667,Body Lotion JKL,Body Treatment,2
+846,7/22/2022,CTR0200560,44,Perempuan,Jember,151617181,Face Serum QRS,Cosmetics,1
+847,7/22/2022,CTR0200536,51,Perempuan,Makassar,161718191,Makeup Remover TUV,Cosmetics,1
+848,7/22/2022,CTR0200499,30,Perempuan,Manado,223344556,Sunscreen GHI,Body Treatment,1
+849,7/22/2022,CTR0200491,45,Perempuan,Mataram,123456789,Facial Cleanser XYZ,Cosmetics,1
+850,7/22/2022,CTR0200469,40,Perempuan,Medan,889900112,Conditioner YZA,Hair Treatment,1
+851,7/22/2022,CTR0200566,35,Perempuan,Padang,101112131,Body Scrub EFG,Body Treatment,5
+852,7/22/2022,CTR0200428,47,Laki-laki,Semarang, XIA-MIP,Speaker Bluetooth Xiaomi Mi Portable,Electronics and Gadget,1
+853,7/22/2022,CTR0200524,47,Laki-laki,Semarang,RAL-POL,Kemeja Polo Ralph Lauren,Fashion,1
+854,7/22/2022,CTR0200434,41,Laki-laki,Tangerang,DEL-INS,Komputer Desktop Dell Inspiron,Computer,1
+855,7/22/2022,CTR0200493,52,Perempuan,Yogyakarta,778899001,Shampoo VWX,Hair Treatment,1
+856,7/22/2022,CTR0200471,28,Perempuan,Solo,889900112,Conditioner YZA,Hair Treatment,1
+857,7/23/2022,CTR0200546,38,Perempuan,Balikpapan,101112131,Body Scrub EFG,Body Treatment,2
+858,7/23/2022,CTR0200575,35,Laki-laki,Bangka Belitung,SHA-A8,Mesin Cuci Sharp Aqua,Electronics and Gadget,1
+859,7/23/2022,CTR0200559,39,Laki-laki,Banyuwangi,SAN-2P180,Kulkas Sanyo 2 Pintu,Electronics and Gadget,2
+860,7/23/2022,CTR0200449,43,Laki-laki,Cirebon,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,2
+861,7/23/2022,CTR0200423,23,Perempuan,Jakarta,192021232,Hair Mask CDE,Hair Treatment,1
+862,7/23/2022,CTR0200560,44,Perempuan,Jember,889900112,Conditioner YZA,Hair Treatment,30
+863,7/23/2022,CTR0200539,50,Laki-laki,Makassar,POL-X5,Sepeda Polygon Xtrada 5,Sport,1
+864,7/23/2022,CTR0200499,30,Perempuan,Manado,445566778,Hair Serum MNO,Hair Treatment,1
+865,7/23/2022,CTR0200491,45,Perempuan,Mataram,987654321,Moisturizer ABC,Cosmetics,1
+866,7/23/2022,CTR0200480,36,Perempuan,Medan,222324264,Acne Gel LMN,Cosmetics,4
+867,7/23/2022,CTR0200567,36,Perempuan,Padang,171819202,Lipstick WXY,Cosmetics,3
+868,7/23/2022,CTR0200428,47,Laki-laki,Semarang,PHI-HUE,Lampu LED Philips Hue White,Electronics and Gadget,1
+869,7/23/2022,CTR0200524,47,Laki-laki,Semarang,ANK-PW10,Wireless Charger Anker PowerWave,Electronics and Gadget,1
+870,7/23/2022,CTR0200434,41,Laki-laki,Tangerang,LOG-G502,Papan Mouse Logitech G502,Computer,1
+871,7/23/2022,CTR0200525,49,Laki-laki,Yogyakarta,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,3
+872,7/23/2022,CTR0200471,28,Perempuan,Solo,161718191,Makeup Remover TUV,Cosmetics,2
+873,7/24/2022,CTR0200551,44,Laki-laki,Balikpapan,ERG-MK100,Meja Kerja Ergotron,Home Appliances,1
+874,7/24/2022,CTR0200575,35,Laki-laki,Bangka Belitung,XIA-MIRV,Vacuum Cleaner Xiaomi Mi Robot,Electronics and Gadget,3
+875,7/24/2022,CTR0200456,53,Laki-laki,Batam,SON-RX100,Kamera Sony RX100 VII,Electronics and Gadget,1
+876,7/24/2022,CTR0200449,43,Laki-laki,Cirebon,GO-PRO9,Kamera GoPro HERO9 Black,Electronics and Gadget,2
+877,7/24/2022,CTR0200423,23,Perempuan,Jakarta,334455667,Body Lotion JKL,Body Treatment,1
+878,7/24/2022,CTR0200448,28,Perempuan,Kediri,242526286,Whitening Cream RST,Cosmetics,1
+879,7/24/2022,CTR0200539,50,Laki-laki,Makassar,MK-BRAD,Jam Tangan Michael Kors Bradshaw,Convinience Goods,1
+880,7/24/2022,CTR0200499,30,Perempuan,Manado,778899001,Shampoo VWX,Hair Treatment,1
+881,7/24/2022,CTR0200491,45,Perempuan,Mataram,202122242,Deodorant FGH,Cosmetics,1
+882,7/24/2022,CTR0200480,36,Perempuan,Medan,123456789,Facial Cleanser XYZ,Cosmetics,1
+883,7/24/2022,CTR0200567,36,Perempuan,Padang,141516171,Foot Cream NOP,Body Treatment,5
+884,7/24/2022,CTR0200428,47,Laki-laki,Semarang,RB-WAY,Kacamata Hitam Ray-Ban Wayfarer,Fashion,1
+885,7/24/2022,CTR0200524,47,Laki-laki,Semarang,LEN-Y7I,Laptop Lenovo Yoga 7i,Computer,1
+886,7/24/2022,CTR0200434,41,Laki-laki,Tangerang,JAM-COOK,Buku Panduan Memasak Jamie Oliver,Books,1
+887,7/24/2022,CTR0200525,49,Laki-laki,Yogyakarta,XIA-RED-AIR,Earphone Xiaomi Redmi AirDots,Electronics and Gadget,1
+888,7/24/2022,CTR0200471,28,Perempuan,Solo,223344556,Sunscreen GHI,Body Treatment,1
+889,7/25/2022,CTR0200551,44,Laki-laki,Balikpapan,DJI-OM4,Gimbal DJI Osmo Mobile 4,Electronics and Gadget,3
+890,7/25/2022,CTR0200575,35,Laki-laki,Bangka Belitung,DYS-V11,Vacuum Cleaner Dyson V11,Electronics and Gadget,2
+891,7/25/2022,CTR0200456,53,Laki-laki,Batam,JAM-COOK,Buku Panduan Memasak Jamie Oliver,Books,1
+892,7/25/2022,CTR0200496,30,Laki-laki,Cirebon,QQ-DIG,Jam Dinding Q&Q,Furniture,2
+893,7/25/2022,CTR0200424,37,Laki-laki,Jakarta,CAS-GSHOCK,Jam Tangan Casio G-Shock,Convinience Goods,7
+894,7/25/2022,CTR0200448,28,Perempuan,Kediri,212223253,Nail Polish IJK,Cosmetics,1
+895,7/25/2022,CTR0200539,50,Laki-laki,Makassar,LEN-Y7I,Laptop Lenovo Yoga 7i,Computer,2
+896,7/25/2022,CTR0200499,30,Perempuan,Manado,161718191,Makeup Remover TUV,Cosmetics,2
+897,7/25/2022,CTR0200491,45,Perempuan,Mataram,212223253,Nail Polish IJK,Cosmetics,2
+898,7/25/2022,CTR0200480,36,Perempuan,Medan,202122242,Deodorant FGH,Cosmetics,4
+899,7/25/2022,CTR0200567,36,Perempuan,Padang,222324264,Acne Gel LMN,Cosmetics,2
+900,7/25/2022,CTR0200428,47,Laki-laki,Semarang,IKE-SKUBB,Rak Sepatu IKEA SKUBB,Home Appliances,1
+901,7/25/2022,CTR0200524,47,Laki-laki,Semarang,HAR-ONYX4,Speaker Harman Kardon Onyx Studio Speaker Harman Kardon Onyx Studio 4,Electronics and Gadget,3
+902,7/25/2022,CTR0200434,41,Laki-laki,Tangerang,AC-PH300,Laptop Acer Predator Helios 300,Computer,1
+903,7/25/2022,CTR0200525,49,Laki-laki,Yogyakarta,HAR-ONYX4,Speaker Harman Kardon Onyx Studio Speaker Harman Kardon Onyx Studio 4,Electronics and Gadget,2
+904,7/25/2022,CTR0200471,28,Perempuan,Solo,151617181,Face Serum QRS,Cosmetics,1
+905,7/26/2022,CTR0200551,44,Laki-laki,Balikpapan,SAM-Q60T,Televisi Samsung Q60,Electronics and Gadget,1
+906,7/26/2022,CTR0200552,43,Laki-laki,Banjarmasin,DEL-EC685,Mesin Kopi Delonghi EC685,Electronics and Gadget,1
+907,7/26/2022,CTR0200515,55,Laki-laki,Batam,YON-AST99,Raket Badminton Yonex Astrox 99,Sport,1
+908,7/26/2022,CTR0200496,30,Laki-laki,Cirebon,SHA-A8,Mesin Cuci Sharp Aqua,Electronics and Gadget,1
+909,7/26/2022,CTR0200424,37,Laki-laki,Jakarta,BATIK-MR,Kemeja Batik Pria,Fashion,2
+910,7/26/2022,CTR0200448,28,Perempuan,Kediri,151617181,Face Serum QRS,Cosmetics,1
+911,7/26/2022,CTR0200539,50,Laki-laki,Makassar,IKE-MF,Bantal Memory Foam IKEA,Electronics and Gadget,1
+912,7/26/2022,CTR0200499,30,Perempuan,Manado,222324264,Acne Gel LMN,Cosmetics,1
+913,7/26/2022,CTR0200491,45,Perempuan,Mataram,151617181,Face Serum QRS,Cosmetics,2
+914,7/26/2022,CTR0200480,36,Perempuan,Medan,556677889,Face Mask PQR,Cosmetics,1
+915,7/26/2022,CTR0200567,36,Perempuan,Padang,667788990,Toner STU,Cosmetics,1
+916,7/26/2022,CTR0200428,47,Laki-laki,Semarang,XIA-RED-AIR,Earphone Xiaomi Redmi AirDots,Electronics and Gadget,1
+917,7/26/2022,CTR0200524,47,Laki-laki,Semarang,IKE-KALLAX,Rak Buku IKEA Kallax,Home Appliances,1
+918,7/26/2022,CTR0200434,41,Laki-laki,Tangerang,DYS-V11,Vacuum Cleaner Dyson V11,Electronics and Gadget,1
+919,7/26/2022,CTR0200525,49,Laki-laki,Yogyakarta,SON-A7III,Kamera Sony Alpha A7 III,Electronics and Gadget,1
+920,7/26/2022,CTR0200529,50,Laki-laki,Solo,PHI-HR2116,Blender Philips HR2116,Electronics and Gadget,1
+921,7/27/2022,CTR0200572,43,Perempuan,Balikpapan,334455667,Body Lotion JKL,Body Treatment,1
+922,7/27/2022,CTR0200552,43,Laki-laki,Banjarmasin,CAN-G3020,Printer Canon PIXMA G3020,Computer,2
+923,7/27/2022,CTR0200515,55,Laki-laki,Batam,QQ-DIG,Jam Dinding Q&Q,Furniture,1
+924,7/27/2022,CTR0200496,30,Laki-laki,Cirebon,IKE-KUNG,Papan Setrika IKEA Kungsfors,Home Appliances,2
+925,7/27/2022,CTR0200424,37,Laki-laki,Jakarta,RB-WAY,Kacamata Hitam Ray-Ban Wayfarer,Fashion,1
+926,7/27/2022,CTR0200448,28,Perempuan,Kediri,222324264,Acne Gel LMN,Cosmetics,2
+927,7/27/2022,CTR0200539,50,Laki-laki,Makassar,CAN-EOS-M50,Kamera Canon EOS M50,Electronics and Gadget,1
+928,7/27/2022,CTR0200499,30,Perempuan,Manado,141516171,Foot Cream NOP,Body Treatment,1
+929,7/27/2022,CTR0200491,45,Perempuan,Mataram,556677889,Face Mask PQR,Cosmetics,1
+930,7/27/2022,CTR0200492,37,Perempuan,Medan,123456789,Facial Cleanser XYZ,Cosmetics,1
+931,7/27/2022,CTR0200567,36,Perempuan,Padang,181920212,Blush ZAB,Cosmetics,1
+932,7/27/2022,CTR0200428,47,Laki-laki,Semarang,RB-WAY,Kacamata Hitam Ray-Ban Wayfarer,Fashion,1
+933,7/27/2022,CTR0200415,40,Perempuan,Pekanbaru,112233445,Lip Balm DEF,Cosmetics,1
+934,7/27/2022,CTR0200434,41,Laki-laki,Tangerang,SON-RX100,Kamera Sony RX100 VII,Electronics and Gadget,1
+935,7/27/2022,CTR0200525,49,Laki-laki,Yogyakarta,IKE-365,Set Alat Makan IKEA 365+,Kitchen Appliances,2
+936,7/27/2022,CTR0200529,50,Laki-laki,Solo,LG-TWIN,Mesin Cuci LG TWINWash,Electronics and Gadget,1
+937,7/28/2022,CTR0200572,43,Perempuan,Balikpapan,990011223,Eye Cream BCD,Cosmetics,5
+938,7/28/2022,CTR0200552,43,Laki-laki,Banjarmasin,NIK-AM270,Sepatu Nike Air Max 270,Fashion,3
+939,7/28/2022,CTR0200515,55,Laki-laki,Batam,NIK-D3500,Kamera Nikon D3500,Electronics and Gadget,1
+940,7/28/2022,CTR0200496,30,Laki-laki,Cirebon,OPP-REN6,Smartphone Oppo Reno 6,Electronics and Gadget,2
+941,7/28/2022,CTR0200458,25,Laki-laki,Jakarta,DEL-XPS13,Laptop Dell XPS 13,Computer,1
+942,7/28/2022,CTR0200448,28,Perempuan,Kediri,223344556,Sunscreen GHI,Body Treatment,1
+943,7/28/2022,CTR0200479,54,Perempuan,Malang,242526286,Whitening Cream RST,Cosmetics,1
+944,7/28/2022,CTR0200499,30,Perempuan,Manado,242526286,Whitening Cream RST,Cosmetics,1
+945,7/28/2022,CTR0200491,45,Perempuan,Mataram,131415161,Face Oil KLM,Cosmetics,1
+946,7/28/2022,CTR0200513,18,Laki-laki,Medan,DYS-PCOOL,Kipas Angin Dyson Pure Cool,Electronics and Gadget,1
+947,7/28/2022,CTR0200567,36,Perempuan,Padang,202122242,Deodorant FGH,Cosmetics,27
+948,7/28/2022,CTR0200428,47,Laki-laki,Semarang,PAN-F409,Kipas Angin Panasonic F-409,Electronics and Gadget,1
+949,7/28/2022,CTR0200415,40,Perempuan,Pekanbaru,192021232,Hair Mask CDE,Hair Treatment,1
+950,7/28/2022,CTR0200434,41,Laki-laki,Tangerang,IKE-BEK,Meja Kerja IKEA Bekant,Home Appliances,1
+951,7/28/2022,CTR0200525,49,Laki-laki,Yogyakarta,TUP-SET10,Set Peralatan Dapur Tupperware,Kitchen Appliances,1
+952,7/28/2022,CTR0200529,50,Laki-laki,Solo,JATI-MEJA,Meja Makan Kayu Jati,Kitchen Appliances,1
+953,7/29/2022,CTR0200460,18,Perempuan,Bandung,334455667,Body Lotion JKL,Body Treatment,1
+954,7/29/2022,CTR0200552,43,Laki-laki,Banjarmasin,ANK-PW10,Wireless Charger Anker PowerWave,Electronics and Gadget,2
+955,7/29/2022,CTR0200574,44,Perempuan,Batam,151617181,Face Serum QRS,Cosmetics,4
+956,7/29/2022,CTR0200563,39,Perempuan,Cirebon,123456789,Facial Cleanser XYZ,Cosmetics,1
+957,7/29/2022,CTR0200458,25,Laki-laki,Jakarta,KIT-ARTIS,Mixer Kitchenaid Artisan,Electronics and Gadget,6
+958,7/29/2022,CTR0200448,28,Perempuan,Kediri,987654321,Moisturizer ABC,Cosmetics,1
+959,7/29/2022,CTR0200479,54,Perempuan,Malang,778899001,Shampoo VWX,Hair Treatment,3
+960,7/29/2022,CTR0200499,30,Perempuan,Manado,171819202,Lipstick WXY,Cosmetics,2
+961,7/29/2022,CTR0200507,36,Perempuan,Mataram,242526286,Whitening Cream RST,Cosmetics,1
+962,7/29/2022,CTR0200514,18,Perempuan,Medan,445566778,Hair Serum MNO,Hair Treatment,1
+963,7/29/2022,CTR0200567,36,Perempuan,Padang,121314151,Hand Cream HIJ,Body Treatment,30
+964,7/29/2022,CTR0200428,47,Laki-laki,Semarang,EIG-TR30,Tas Ransel Eiger Track 30L,Equipments,29
+965,7/29/2022,CTR0200415,40,Perempuan,Pekanbaru,131415161,Face Oil KLM,Cosmetics,1
+966,7/29/2022,CTR0200434,41,Laki-laki,Tangerang,IKE-SKUBB,Rak Sepatu IKEA SKUBB,Home Appliances,1
+967,7/29/2022,CTR0200525,49,Laki-laki,Yogyakarta,MK-BRAD,Jam Tangan Michael Kors Bradshaw,Convinience Goods,1
+968,7/29/2022,CTR0200558,42,Laki-laki,Solo,ASUS-VB14,Laptop ASUS VivoBook 14,Computer,2
+969,7/30/2022,CTR0200460,18,Perempuan,Bandung,445566778,Hair Serum MNO,Hair Treatment,1
+970,7/30/2022,CTR0200552,43,Laki-laki,Banjarmasin,IKE-MF,Bantal Memory Foam IKEA,Electronics and Gadget,2
+971,7/30/2022,CTR0200574,44,Perempuan,Batam,202122242,Deodorant FGH,Cosmetics,1
+972,7/30/2022,CTR0200563,39,Perempuan,Cirebon,667788990,Toner STU,Cosmetics,1
+973,7/30/2022,CTR0200458,25,Laki-laki,Jakarta,ERG-MK100,Meja Kerja Ergotron,Home Appliances,1
+974,7/30/2022,CTR0200448,28,Perempuan,Kediri,151617181,Face Serum QRS,Cosmetics,1
+975,7/30/2022,CTR0200479,54,Perempuan,Malang,889900112,Conditioner YZA,Hair Treatment,3
+976,7/30/2022,CTR0200500,24,Laki-laki,Manado,FOS-GEN5,Jam Tangan Fossil Gen 5,Convinience Goods,1
+977,7/30/2022,CTR0200507,36,Perempuan,Mataram,161718191,Makeup Remover TUV,Cosmetics,1
+978,7/30/2022,CTR0200514,18,Perempuan,Medan,181920212,Blush ZAB,Cosmetics,1
+979,7/30/2022,CTR0200570,38,Laki-laki,Padang,TEF-EX24,Panci Tefal Expertise,Kitchen Appliances,1
+980,7/30/2022,CTR0200428,47,Laki-laki,Semarang,JBL-FLIP5,Speaker JBL Flip 5,Electronics and Gadget,1
+981,7/30/2022,CTR0200415,40,Perempuan,Pekanbaru,181920212,Blush ZAB,Cosmetics,1
+982,7/30/2022,CTR0200467,51,Perempuan,Tangerang,556677889,Face Mask PQR,Cosmetics,1
+983,7/30/2022,CTR0200555,36,Perempuan,Yogyakarta,667788990,Toner STU,Cosmetics,2
+984,7/30/2022,CTR0200412,38,Perempuan,Purwokerto,987654321,Moisturizer ABC,Cosmetics,1
+985,7/31/2022,CTR0200460,18,Perempuan,Bandung,171819202,Lipstick WXY,Cosmetics,1
+986,7/31/2022,CTR0200552,43,Laki-laki,Banjarmasin,AC-PH300,Laptop Acer Predator Helios 300,Computer,1
+987,7/31/2022,CTR0200581,42,Laki-laki,Batam,DYS-V11,Vacuum Cleaner Dyson V11,Electronics and Gadget,5
+988,7/31/2022,CTR0200563,39,Perempuan,Cirebon,242526286,Whitening Cream RST,Cosmetics,1
+989,7/31/2022,CTR0200461,26,Laki-laki,Jakarta,BATIK-MR,Kemeja Batik Pria,Fashion,3
+990,7/31/2022,CTR0200561,40,Perempuan,Kediri,222324264,Acne Gel LMN,Cosmetics,1
+991,7/31/2022,CTR0200479,54,Perempuan,Malang,161718191,Makeup Remover TUV,Cosmetics,2
+992,7/31/2022,CTR0200500,24,Laki-laki,Manado,DYS-V11,Vacuum Cleaner Dyson V11,Electronics and Gadget,1
+993,7/31/2022,CTR0200507,36,Perempuan,Mataram,141516171,Foot Cream NOP,Body Treatment,2
+994,7/31/2022,CTR0200514,18,Perempuan,Medan,202122242,Deodorant FGH,Cosmetics,2
+995,7/31/2022,CTR0200571,35,Perempuan,Padang,161718191,Makeup Remover TUV,Cosmetics,1
+996,7/31/2022,CTR0200428,47,Laki-laki,Semarang,JAM-COOK,Buku Panduan Memasak Jamie Oliver,Books,1
+997,7/31/2022,CTR0200415,40,Perempuan,Pekanbaru,990011223,Eye Cream BCD,Cosmetics,2
+998,7/31/2022,CTR0200467,51,Perempuan,Tangerang,990011223,Eye Cream BCD,Cosmetics,1
+999,7/31/2022,CTR0200555,36,Perempuan,Yogyakarta,112233445,Lip Balm DEF,Cosmetics,1
+1000,7/31/2022,CTR0200412,38,Perempuan,Purwokerto,232425275,Perfume OPQ,Cosmetics,1
