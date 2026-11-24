@@ -1,1 +1,11 @@
-
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+ipykernel
+openpyxl
+sqlalchemy
+pymysql
+scipy
+scikit-learn
