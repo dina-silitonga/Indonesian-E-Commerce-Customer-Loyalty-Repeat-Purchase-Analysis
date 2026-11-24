@@ -1,0 +1,15 @@
+customer-behavior-retention-analysis/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│
+├── sql/
+│
+├── dashboard/
+│
+├── reports/
+│
+└── README.md
