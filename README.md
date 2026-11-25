@@ -98,18 +98,6 @@ Bisnis ini menggantikan pelanggan yang pergi dengan pelanggan baru, bukan memper
 
 ---
 
-## 🗂️ Struktur Proyek
-```
-├── data/
-│   ├── repeatbuyer_ecommerce_indo                
-│   └── transactions_clean.csv
-│   └── customer_summary.csv      
-├── EDA_loyalti_repeat_purchase.ipynb     
-├── dashboard_powerbi_ecommerce_loyalty.png                  
-├── requirements.txt
-
-```
-
 ## 🧠 Yang Saya Pelajari / Tunjukkan
 Data cleaning · Analisis kohort & retensi · Segmentasi RFM · Visualisasi data · Storytelling bisnis · Kesadaran akan keterbatasan data
 
