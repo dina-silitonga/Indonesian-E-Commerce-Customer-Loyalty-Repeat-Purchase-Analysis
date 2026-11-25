@@ -1,4 +1,4 @@
-# 🛒 Analisis Repeat Purchase & Retensi Pelanggan E-commerce Indonesia
+# 🛒 Analisis Customer Loyalty & Repeat Purchase E-commerce Indonesia
 
 Proyek analitik data *end-to-end* untuk memahami perilaku pelanggan, pembelian berulang (*repeat purchase*), dan retensi
 pada **1.000 transaksi e-commerce Indonesia (1 Juni – 31 Juli 2022)**.
@@ -47,9 +47,6 @@ pada **1.000 transaksi e-commerce Indonesia (1 Juni – 31 Juli 2022)**.
 Namun **97,3% jarak antar pembelian hanya 1 hari** dan median rentang aktif pelanggan repeat hanya **4 hari**.
 Artinya banyak pelanggan membeli beruntun dalam beberapa hari lalu berhenti, bukan kembali secara berkala.
 
-![Distribusi](images/01_distribusi_transaksi_per_pelanggan.png)
-![Rentang aktif](images/03_rentang_aktif_pelanggan.png)
-
 ### 2. Retensi sejati jauh lebih rendah
 | Ukuran retensi | Hasil |
 |---|---|
@@ -60,15 +57,11 @@ Artinya banyak pelanggan membeli beruntun dalam beberapa hari lalu berhenti, buk
 Jumlah pelanggan aktif stabil (105 di Juni, 103 di Juli), tetapi **73 dari 103 pelanggan Juli adalah pelanggan baru**.
 Bisnis ini menggantikan pelanggan yang pergi dengan pelanggan baru, bukan mempertahankan yang lama.
 
-![Tren mingguan](images/02_tren_mingguan.png)
-
 ### 3. Kosmetik adalah mesin repeat purchase
 - **Cosmetics**: 39% dari seluruh transaksi dan repeat rate di kategori **78,6%**.
 - Body Treatment (60,0%) dan Electronics & Gadget (59,4%) menyusul, lalu Hair Treatment (47,4%).
 - Produk tahan lama (Computer 19,2%, Home Appliances 21,9%, Kitchen Appliances 20,0%) jarang dibeli ulang.
 - *Equipments* dan *Books* belum punya pembeli yang mengulang di kategori yang sama (jumlah pelanggannya kecil).
-
-![Kategori](images/04_kategori.png)
 
 ### 4. Segmentasi RFM
 | Segmen | Pelanggan | Ciri |
@@ -82,15 +75,10 @@ Bisnis ini menggantikan pelanggan yang pergi dengan pelanggan baru, bukan memper
 
 **28 pelanggan (15,7%) yang punya ≥ 10 transaksi menyumbang 38,8% dari semua transaksi**, jadi menjaga mereka sangat penting.
 
-![RFM](images/07_segmen_rfm.png)
-
 ### 5. Demografi dan wilayah
 - **Perempuan** lebih loyal: repeat rate 97,0% vs 89,6% laki-laki, dan 6,1 vs 5,0 transaksi per pelanggan.
 - **Usia** hampir tidak membedakan repeat rate (92–95%). Sekitar 76% pelanggan berusia 35–60 tahun.
 - **Kota**: Medan dan Manado tertinggi (masing-masing 70 transaksi). Jumlah pelanggan per kota sangat kecil (5–12), jadi perbedaan antar kota belum bisa disimpulkan.
-
-![Demografi](images/05_demografi.png)
-![Kota](images/06_top_kota.png)
 
 ---
 
@@ -113,40 +101,17 @@ Bisnis ini menggantikan pelanggan yang pergi dengan pelanggan baru, bukan memper
 ## 🗂️ Struktur Proyek
 ```
 ├── data/
-│   ├── raw/                 # data asli (tidak diubah)
-│   └── processed/           # data bersih + ringkasan pelanggan
-├── python/
-│   ├── 01_cleaning.py       # pembersihan data
-│   └── 02_analysis.py       # analisis, RFM, grafik
-├── sql/                     # 8 file query SQLite (00_setup ... 07_rfm) + run_all.py
-├── excel/
-│   ├── repeat_buyer_analysis.xlsx   # ringkasan dengan rumus Excel
-│   └── build_workbook.py
-├── powerbi/PANDUAN_POWER_BI.md      # langkah membuat dashboard
-├── results/                 # tabel hasil (CSV)
-├── images/                  # grafik
+│   ├── repeatbuyer_ecommerce_indo                
+│   └── transactions_clean.csv
+│   └── customer_summary.csv      
+├── EDA_loyalti_repeat_purchase.ipynb     
+├── dashboard_powerbi_ecommerce_loyalty.png                  
 ├── requirements.txt
-└── run_all.sh
-```
 
-## ▶️ Cara Menjalankan
-```bash
-# 1. Pasang library (sekali saja)
-pip install -r requirements.txt
-
-# 2. Jalankan semua langkah sekaligus
-bash run_all.sh
-# atau satu per satu:
-python python/01_cleaning.py
-python python/02_analysis.py
-python sql/run_all.py
 ```
-- **SQL:** buka `sql/*.sql` di [DB Browser for SQLite](https://sqlitebrowser.org/) setelah mengimpor `transactions_clean.csv` (lihat `sql/00_setup.sql`).
-- **Excel:** buka `excel/repeat_buyer_analysis.xlsx` (sheet *Ringkasan*, *Pelanggan*, *Data*).
-- **Power BI:** ikuti `powerbi/PANDUAN_POWER_BI.md`.
 
 ## 🧠 Yang Saya Pelajari / Tunjukkan
-Data cleaning · SQL (CTE, window function, cohort) · Analisis kohort & retensi · Segmentasi RFM · Visualisasi data · Storytelling bisnis · Kesadaran akan keterbatasan data
+Data cleaning · Analisis kohort & retensi · Segmentasi RFM · Visualisasi data · Storytelling bisnis · Kesadaran akan keterbatasan data
 
 ---
-👤 **[Nama Kamu]** · [LinkedIn](https://linkedin.com/in/username) · [Email](mailto:email@contoh.com)
+
