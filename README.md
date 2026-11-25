@@ -3,7 +3,7 @@
 Proyek analitik data *end-to-end* untuk memahami perilaku pelanggan, pembelian berulang (*repeat purchase*), dan retensi
 pada **1.000 transaksi e-commerce Indonesia (1 Juni – 31 Juli 2022)**.
 
-**Tools:** Excel · SQL (SQLite) · Python (pandas, matplotlib, seaborn) · Power BI
+**Tools:** Excel · Python (pandas, matplotlib, seaborn) · Power BI
 
 ---
 
