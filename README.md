@@ -1,130 +1,152 @@
-# Indonesian E-Commerce Customer Loyalty & Repeat Purchase Analysis
+# 🛒 Analisis Repeat Purchase & Retensi Pelanggan E-commerce Indonesia
 
-**An End-to-End Data Analytics Project**
+Proyek analitik data *end-to-end* untuk memahami perilaku pelanggan, pembelian berulang (*repeat purchase*), dan retensi
+pada **1.000 transaksi e-commerce Indonesia (1 Juni – 31 Juli 2022)**.
 
-> An exploratory data analytics project focused on understanding Indonesian e-commerce customer behavior, repeat purchase patterns, customer value, and retention opportunities.
+**Tools:** Excel · SQL (SQLite) · Python (pandas, matplotlib, seaborn) · Power BI
 
 ---
 
-## 1. Project Overview
+## 🎯 Pertanyaan Bisnis
+1. Seberapa besar proporsi pelanggan yang membeli lebih dari sekali?
+2. Berapa banyak pelanggan yang benar-benar **kembali** setelah beberapa waktu (retensi)?
+3. Kategori dan produk apa yang paling mendorong pembelian berulang?
+4. Siapa pelanggan terbaik, dan siapa yang berisiko hilang? (segmentasi RFM)
+5. Apakah gender, usia, dan kota memengaruhi perilaku beli?
 
-Customer acquisition is important for e-commerce businesses, but retaining existing customers and encouraging repeat purchases are equally important.
-
-This project aims to analyze customer purchasing behavior in Indonesian e-commerce to understand how customers move from their first purchase to subsequent transactions.
-
-The analysis will explore purchasing frequency, customer spending patterns, repeat purchase behavior, and customer retention opportunities.
-
-## 2. Business Objectives
-
-The main objectives of this project are:
-
-- Identify the proportion of one-time buyers and repeat buyers.
-- Analyze the time interval between the first and second purchases.
-- Understand customer purchasing frequency and spending patterns.
-- Identify valuable customer segments.
-- Explore customer retention patterns using cohort analysis.
-- Develop data-driven recommendations to improve customer loyalty.
-
-## 3. Business Questions
-
-This project will address the following questions:
-
-1. How many customers make only one purchase compared to those who purchase repeatedly?
-2. What is the average time between a customer's first and second purchase?
-3. How does spending behavior differ between one-time buyers and repeat buyers?
-4. Which product categories contribute most to repeat purchases?
-5. Which customer segments generate the highest revenue?
-6. How does customer retention change over time?
-7. What opportunities can e-commerce businesses explore to improve customer loyalty?
-
-## 4. Tools & Technologies
-
-| Tool | Purpose |
+## 📦 Dataset
+| Kolom | Arti |
 |---|---|
-| Microsoft Excel | Data understanding and quality assessment |
-| Python | Data cleaning, exploratory analysis, and customer segmentation |
-| SQL (MySQL) | Database management and business analysis |
-| Power BI | Interactive dashboard development |
-| GitHub | Project documentation and version control |
+| `Trx_Date` | Tanggal transaksi (1 Jun – 31 Jul 2022) |
+| `Cust_ID` | ID pelanggan (178 pelanggan unik) |
+| `Age`, `Gender`, `AREA` | Usia, jenis kelamin, kota (32 kota) |
+| `Product_ID`, `Product_Name`, `Category` | Produk (122 produk, 13 kategori) |
+| `Amount` | **Jumlah unit** yang dibeli per transaksi |
 
-## 5. Analytical Approach
+> ⚠️ Dataset **tidak memiliki harga**, sehingga tidak ada analisis omzet/revenue. Pada RFM, *Monetary* diganti dengan **total unit** yang dibeli.
 
-The project will follow these analytical stages:
+## 🧹 Pembersihan Data
+- Format tanggal `m/d/yyyy` diubah menjadi tipe tanggal.
+- 1 kategori salah (`E`) diperbaiki menjadi `Body Treatment` (berdasarkan produk yang sama, *Hand Cream HIJ*).
+- Ejaan `Convinience Goods` diperbaiki menjadi `Convenience Goods`.
+- Ditambahkan kolom `month`, `weekday`, dan `age_group`.
+- Hasil cek: tidak ada data kosong dan tidak ada duplikat.
 
-1. Data Collection & Understanding
-2. Data Quality Assessment
-3. Data Cleaning & Preparation
-4. Database Development
-5. Business Analysis Using SQL
-6. Exploratory Data Analysis (EDA)
-7. Customer Segmentation (RFM Analysis)
-8. Customer Retention & Cohort Analysis
-9. Dashboard Development
-10. Business Insights & Reporting
+---
 
-The analytical methods will be adjusted according to the actual dataset structure and available variables.
+## 🔍 Temuan Utama
 
-## 6. Repository Structure
+### 1. Repeat rate tinggi (93,8%), tetapi menyesatkan
+| Metrik | Nilai |
+|---|---|
+| Total pelanggan | **178** |
+| Pelanggan repeat (≥ 2 transaksi) | **167 (93,8%)** |
+| Rata-rata transaksi per pelanggan | **5,6** (median 4) |
+| Pelanggan beli 1× saja | 11 |
 
-```text
-customer-loyalty-repeat-purchase-analysis/
-│
+Namun **97,3% jarak antar pembelian hanya 1 hari** dan median rentang aktif pelanggan repeat hanya **4 hari**.
+Artinya banyak pelanggan membeli beruntun dalam beberapa hari lalu berhenti, bukan kembali secara berkala.
+
+![Distribusi](images/01_distribusi_transaksi_per_pelanggan.png)
+![Rentang aktif](images/03_rentang_aktif_pelanggan.png)
+
+### 2. Retensi sejati jauh lebih rendah
+| Ukuran retensi | Hasil |
+|---|---|
+| Pelanggan Juni yang kembali beli di Juli | **28,6%** (30 dari 105) |
+| Kembali ≥ 7 hari setelah pembelian pertama | **30,7%** (51 dari 166) |
+| Kembali ≥ 30 hari setelah pembelian pertama | **15,7%** (17 dari 108) |
+
+Jumlah pelanggan aktif stabil (105 di Juni, 103 di Juli), tetapi **73 dari 103 pelanggan Juli adalah pelanggan baru**.
+Bisnis ini menggantikan pelanggan yang pergi dengan pelanggan baru, bukan mempertahankan yang lama.
+
+![Tren mingguan](images/02_tren_mingguan.png)
+
+### 3. Kosmetik adalah mesin repeat purchase
+- **Cosmetics**: 39% dari seluruh transaksi dan repeat rate di kategori **78,6%**.
+- Body Treatment (60,0%) dan Electronics & Gadget (59,4%) menyusul, lalu Hair Treatment (47,4%).
+- Produk tahan lama (Computer 19,2%, Home Appliances 21,9%, Kitchen Appliances 20,0%) jarang dibeli ulang.
+- *Equipments* dan *Books* belum punya pembeli yang mengulang di kategori yang sama (jumlah pelanggannya kecil).
+
+![Kategori](images/04_kategori.png)
+
+### 4. Segmentasi RFM
+| Segmen | Pelanggan | Ciri |
+|---|---|---|
+| Champions | 21 (11,8%) | Baru beli, sangat sering, unit besar |
+| Aktif / Potensial | 38 | Baru beli, frekuensi sedang |
+| Loyal (mulai menjauh) | 38 | Dulu sangat sering (rata-rata 10,5 trx), sudah lama tidak beli |
+| Perlu Perhatian | 38 | Recency dan frekuensi menengah |
+| At Risk | 16 | Lama tidak beli, tetapi dulu cukup sering |
+| Lost / Hibernating | 27 | Lama tidak beli dan hanya sedikit transaksi |
+
+**28 pelanggan (15,7%) yang punya ≥ 10 transaksi menyumbang 38,8% dari semua transaksi**, jadi menjaga mereka sangat penting.
+
+![RFM](images/07_segmen_rfm.png)
+
+### 5. Demografi dan wilayah
+- **Perempuan** lebih loyal: repeat rate 97,0% vs 89,6% laki-laki, dan 6,1 vs 5,0 transaksi per pelanggan.
+- **Usia** hampir tidak membedakan repeat rate (92–95%). Sekitar 76% pelanggan berusia 35–60 tahun.
+- **Kota**: Medan dan Manado tertinggi (masing-masing 70 transaksi). Jumlah pelanggan per kota sangat kecil (5–12), jadi perbedaan antar kota belum bisa disimpulkan.
+
+![Demografi](images/05_demografi.png)
+![Kota](images/06_top_kota.png)
+
+---
+
+## 💡 Rekomendasi
+1. **Fokus ke retensi, bukan hanya akuisisi.** Hanya 3 dari 10 pelanggan Juni yang kembali di Juli. Kirim promo atau pengingat sekitar 1–2 minggu setelah pembelian pertama.
+2. **Jadikan Kosmetik sebagai produk pintu masuk.** Pelanggan yang pertama kali membeli Cosmetics 98,3% menjadi repeat. Tawarkan *bundling* lintas kategori (Body & Hair Treatment).
+3. **Kampanye win-back** untuk 81 pelanggan di segmen Loyal (mulai menjauh), At Risk, dan Lost, dengan prioritas ke segmen Loyal karena nilainya tertinggi.
+4. **Program loyalitas untuk Champions** dan pelanggan dengan ≥ 10 transaksi (akses awal, poin, gratis ongkir).
+5. **Produk tahan lama** (laptop, peralatan rumah) perlu strategi berbeda, misalnya aksesori atau layanan purna jual, karena jarang dibeli ulang.
+
+## ⚠️ Keterbatasan
+- Periode hanya 2 bulan, jadi retensi jangka panjang belum bisa diukur.
+- Tidak ada kolom harga/omzet dan tidak ada ID pesanan (satu baris = satu transaksi).
+- 17 transaksi membeli ≥ 10 unit sekaligus (maks 30 unit) dan menyumbang 16,4% dari seluruh unit. Kemungkinan pembelian grosir/reseller, tidak dibuang dari analisis.
+- Pola pembelian beruntun yang sangat seragam menunjukkan data kemungkinan sintetis/simulasi, jadi gunakan untuk latihan dan portofolio, bukan keputusan bisnis nyata.
+- Ukuran sampel per kota dan per kategori kecil, jadi bacalah sebagai indikasi, bukan kesimpulan pasti.
+
+---
+
+## 🗂️ Struktur Proyek
+```
 ├── data/
-│   ├── raw/
-│   └── processed/
-│
+│   ├── raw/                 # data asli (tidak diubah)
+│   └── processed/           # data bersih + ringkasan pelanggan
+├── python/
+│   ├── 01_cleaning.py       # pembersihan data
+│   └── 02_analysis.py       # analisis, RFM, grafik
+├── sql/                     # 8 file query SQLite (00_setup ... 07_rfm) + run_all.py
 ├── excel/
-├── notebooks/
-├── sql/
-├── dashboard/
-├── reports/
-├── images/
-│
-├── README.md
-└── requirements.txt
+│   ├── repeat_buyer_analysis.xlsx   # ringkasan dengan rumus Excel
+│   └── build_workbook.py
+├── powerbi/PANDUAN_POWER_BI.md      # langkah membuat dashboard
+├── results/                 # tabel hasil (CSV)
+├── images/                  # grafik
+├── requirements.txt
+└── run_all.sh
 ```
 
-## 7. Expected Deliverables
+## ▶️ Cara Menjalankan
+```bash
+# 1. Pasang library (sekali saja)
+pip install -r requirements.txt
 
-- Cleaned and documented dataset
-- Data quality assessment report
-- Python analysis notebooks
-- SQL queries and business analysis
-- Customer segmentation results
-- Customer retention and cohort analysis
-- Interactive Power BI dashboard
-- Business insights and recommendations
-- Final project report
+# 2. Jalankan semua langkah sekaligus
+bash run_all.sh
+# atau satu per satu:
+python python/01_cleaning.py
+python python/02_analysis.py
+python sql/run_all.py
+```
+- **SQL:** buka `sql/*.sql` di [DB Browser for SQLite](https://sqlitebrowser.org/) setelah mengimpor `transactions_clean.csv` (lihat `sql/00_setup.sql`).
+- **Excel:** buka `excel/repeat_buyer_analysis.xlsx` (sheet *Ringkasan*, *Pelanggan*, *Data*).
+- **Power BI:** ikuti `powerbi/PANDUAN_POWER_BI.md`.
 
-## 8. Key Performance Indicators (KPIs)
-
-The project plans to investigate the following metrics, subject to data availability:
-
-- Total Customers
-- Total Orders
-- Total Revenue
-- Average Order Value (AOV)
-- Repeat Purchase Rate
-- One-Time Buyer Rate
-- Average Purchase Frequency
-- Time to Second Purchase
-- Customer Retention Rate
-- Customer Lifetime Value (CLV), if sufficiently supported by the data
-
-## 9. Dataset & Data Source
-
-The dataset will be selected based on its relevance, credibility, documentation, and availability of transaction-level information.
-
-The source, dataset description, license, and limitations will be documented here after the dataset has been finalized.
-
-## 10. Project Status
-
-**Current Phase:** Repository Setup & Data Collection
-
-This project is currently under development. Analytical findings, visualizations, and business recommendations will be added as each stage is completed.
+## 🧠 Yang Saya Pelajari / Tunjukkan
+Data cleaning · SQL (CTE, window function, cohort) · Analisis kohort & retensi · Segmentasi RFM · Visualisasi data · Storytelling bisnis · Kesadaran akan keterbatasan data
 
 ---
-
-*Created by [dina-silitonga](https://github.com/dina-silitonga)*
-
-*Aspiring Data Analyst | Statistics Graduate*
+👤 **[Nama Kamu]** · [LinkedIn](https://linkedin.com/in/username) · [Email](mailto:email@contoh.com)
